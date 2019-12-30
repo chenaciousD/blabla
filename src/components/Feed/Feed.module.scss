@@ -2,9 +2,13 @@
 @import '../../assets/scss/mixins';
 
 .feed {
+
   &__item {
     @include margin-bottom(1.25);
-  
+    background-color:lightyellow;
+    padding: 20px;
+    border-radius: 2%;
+
     &:last-child {
       @include margin-bottom(.5);
     }
@@ -77,5 +81,7 @@
     }
 
   }
+  &__item:hover {
+    background-color: orange}
 
 }

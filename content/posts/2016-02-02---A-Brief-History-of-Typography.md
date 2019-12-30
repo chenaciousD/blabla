@@ -1,5 +1,5 @@
 ---
-title: "A Brief History of Typography"
+title: "Entering the Digital Whiteboard Market"
 date: "2016-02-02T22:40:32.169Z"
 template: "post"
 draft: false

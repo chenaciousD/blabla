@@ -1,9 +1,9 @@
 ---
-title: Digital CX Transformation for Leading Energy Utility
-date: "2017-08-19T22:40:32.169Z"
+title: Transforming Australia's Leading Utilities into an Experience Leader
+date: "2018-11-19T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "humane-typography-in-the-digital-age"
+slug: "digital-cx-transformation"
 category: "Digital Transformation"
 tags:
   - "Design"
