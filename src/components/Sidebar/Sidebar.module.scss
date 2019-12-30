@@ -15,6 +15,7 @@
         lost-column: 4/12;
         &__inner {
             padding: 30px 20px 0;
+            
             &:after {
                 
                 background: $color-gray-border;
@@ -22,7 +23,7 @@
                 position: absolute;
                 content: '';
                 width: 1px;
-                height: 540px;
+                height: 100%;
                 top: 30px;
                 right: -14px;
                 bottom: 0;

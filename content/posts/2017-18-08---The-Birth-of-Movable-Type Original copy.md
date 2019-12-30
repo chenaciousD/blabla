@@ -27,6 +27,15 @@ Frog was engaged by the CEO, CTO and executive leadership team of Australia’s 
 	<figcaption>Johannes Gutenberg</figcaption>
 </figure>
 
+<figure>
+	<blockquote>
+		<p>Knowledge of the quality of a typeface is of the greatest importance for the functional, aesthetic and psychological effect.</p>
+		<footer>
+			<cite>— Josef Mueller-Brockmann</cite>
+		</footer>
+	</blockquote>
+</figure>
+
 With his invention of the printing press, Gutenberg was the first European to use movable type printing, in around 1439. Among his many contributions to printing are: the invention of a process for mass-producing movable type; the use of oil-based ink; and the use of a wooden printing press similar to the agricultural screw presses of the period. His truly epochal invention was the combination of these elements into a practical system that allowed the mass production of printed books and was economically viable for printers and readers alike. Gutenberg's method for making type is traditionally considered to have included a type metal alloy and a hand mould for casting type. The alloy was a mixture of lead, tin, and antimony that melted at a relatively low temperature for faster and more economical casting, cast well, and created a durable type.
 
 ## The Ask
