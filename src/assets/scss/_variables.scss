@@ -3,9 +3,9 @@
  */
 
 // Colors
-$color-base: #222;
-$color-primary: #5D93FF;
-$color-secondary: #F7A046;
+$color-base: rgb(19, 13, 13);
+$color-primary: rgb(36, 106, 247);
+$color-secondary: rgba(2, 241, 2, 0.164);
 
 $color-white: #FFF;
 $color-gray: lighten($color-base, 40%);
