@@ -10,7 +10,7 @@ tags:
   - "Concept"
   - "Research"
 description: "Frog was engaged by the CEO, CTO and executive leadership team of Australia’s largest utility to conceptualize, design and roadmap the future of their digital products and overall end to end customer experience."
-socialImage: "/media/42-line-bible.jpg"
+socialImage: "/media/AGL-Hero-Shot.jpg"
 ---
 <img src="/media/AGL-Hero-Shot.jpg" width="1000" />
 
