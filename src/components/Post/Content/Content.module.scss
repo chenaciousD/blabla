@@ -41,8 +41,10 @@
     }
 
     & a {
-      text-decoration: underline
+      text-decoration: underline;
+    
     }
+
 
     & * {
       max-width: $layout-post-width;

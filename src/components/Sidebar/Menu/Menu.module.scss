@@ -16,8 +16,9 @@
       &-link {
         font-size: $typographic-base-font-size;
         color: $typographic-base-font-color;
-        font-weight: normal;
+        font-weight: 700;
         border: 0;
+        padding: 2px;
 
         &:hover,
         &:focus {
@@ -28,6 +29,7 @@
         &--active {
           color: $color-base;
           border-bottom: 1px solid $color-base;
+          background-color:orange
         }
 
       }

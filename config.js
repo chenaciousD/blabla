@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Daniel Chen',
+  subtitle: 'Hey! I conceptualize, design, and build experiences for consumers and businesses.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -12,7 +12,7 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Projects & Ideas',
       path: '/'
     },
     {
@@ -20,24 +20,24 @@ module.exports = {
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
+      label: 'Experiments',
       path: '/pages/contacts'
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Daniel Chen',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Daniel Chen is a designer, entrepreuneur, and product leader with experience across finance, design and technology.',
     contacts: {
-      email: '',
-      facebook: '#',
+      email: 'chenaciousD@gmail.com',
+      facebook: 'chenaciousD',
       telegram: '#',
-      twitter: '#',
-      github: '#',
+      twitter: 'chenaciousD',
+      github: 'chenaciousD',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'chenaciousD',
+      instagram: 'chenaciousD',
       line: '',
       gitlab: '',
       weibo: '',
