@@ -26,13 +26,18 @@ In 2017, Australia's leading energy utility approached frog to partner on a majo
 
 The frog team was comprised of interaction designers, visual designers, strategists and solution architects collaborating on mutliple streams of work to ensure an engagement that balanced business, design and technology requirements and understanding. 
 
+Individual Activities Included:
+- Define key customer and prioritization frameworks
+- Contribute to interaction and visual design brainstorms and critiques
+- Facilitate key client workshops and activities
+- Lead business stakeholder interviews
+- Collaborate with solution architect on roadmap and technical architecture
+
 The team completed several qualitative interviews using design research methods including participatory design.
 
 <img src="/media/AGL-Brainstorming-Session.jpg" alt="AGL" width="400"/>
 
 Alongside customer interviews, frog facilitated several workshops with AGL's internal team to gain alignment around key priorities for the company. This culminated in a two-day workshop that gathered nearly 100 people from across the product team to align on customer initiatives for the next planning cycle.
-
-<img src="/media/AGL-Workshop-Team.jpg" alt="AGL" width="500"/>
 
 Alongside customer interviews, frog facilitated several workshops with AGL's internal team to gain alignment around key priorities for the company. This culminated in a two-day workshop that gathered nearly 100 people from across the product team to align on customer initiatives for the next planning cycle.
 

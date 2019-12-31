@@ -1,31 +1,29 @@
 ---
-title: "Contact me"
+title: "Experiments & Inspiration"
 template: "page"
 socialImage: "/media/image-4.jpg"
 ---
 
 ## I look for constant inspiration.
 
-Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.
 
-## Books I'm Reading
 
-Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+## Books & People that Influence & Inspire Me
 
-+ **Lorem ipsum** dolor sit amet, consectetuer adipiscing elit.
-+ Aliquam tincidunt mauris eu risus.
-+ Vestibulum auctor dapibus neque.
-
-## People I Follow Closely
-
-Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec **consectetuer** ligula vulputate sem tristique cursus. Nam nulla quam, gravida non, commodo a, sodales sit amet, nisi.
-
-Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.
++ Stewart Brand
++ Christopher Alexander
++ 
 
 ## Projects I'm experimening in 
 
-Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est.
+## Intersectional Salons
+In 2019, I began hosting several multi-disipinary salons held in collaboration with my good friend, Mat Chow at IDEO.
 
 + **Lorem ipsum** dolor sit amet, consectetuer adipiscing elit.
 + Aliquam tincidunt mauris eu risus.
 + Vestibulum auctor dapibus neque.
+
+## Sourdough Breadmaking
+
+
+## Dysutopian Tours

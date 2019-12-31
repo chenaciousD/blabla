@@ -3,9 +3,9 @@
  */
 
 // Colors
-$color-base: rgb(19, 13, 13);
+$color-base: rgb(0, 0, 0);
 $color-primary: rgb(36, 106, 247);
-$color-secondary: rgba(2, 241, 2, 0.164);
+$color-secondary: rgb(241, 145, 2);
 
 $color-white: #FFF;
 $color-gray: lighten($color-base, 40%);
@@ -19,7 +19,7 @@ $typographic-root-font-size: 100;
 $typographic-base-font-size: 16px;
 $typographic-small-font-size: 13px;
 
-$typographic-base-line-height: 1.625;
+$typographic-base-line-height: 1.3;
 
 $typographic-base-font-color: $color-base;
 $typographic-link-p-font-color: $color-primary;
