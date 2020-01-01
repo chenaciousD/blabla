@@ -62,6 +62,7 @@ module.exports = {
             allMarkdownRemark.edges.map((edge) => ({
               ...edge.node.frontmatter,
               description: edge.node.frontmatter.description,
+              socialImage: edge.node.frontmatter.socialImage,
               date: edge.node.frontmatter.date,
               url: site.siteMetadata.site_url + edge.node.fields.slug,
               guid: site.siteMetadata.site_url + edge.node.fields.slug,
@@ -87,6 +88,7 @@ module.exports = {
                         template
                         draft
                         description
+                        socialImage
                       }
                     }
                   }

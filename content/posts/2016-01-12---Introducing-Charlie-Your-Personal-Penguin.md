@@ -1,9 +1,9 @@
 ---
-title: The Origins of Social Stationery Lettering
+title: Introducing Charlie, Your own Personal Penguin Financial Advisor
 date: "2016-12-01T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "the-origins-of-social-stationery-lettering"
+slug: "charlie-financial-advisor"
 category: "Design Culture"
 description: "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante."
 socialImage: "/media/image-3.jpg"

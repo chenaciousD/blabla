@@ -1,9 +1,10 @@
 // @flow strict
 import React from 'react';
-import moment from 'moment';
+import moment, { isMoment } from 'moment';
 import { Link } from 'gatsby';
 import type { Edges } from '../../types';
 import styles from './Feed.module.scss';
+
 
 type Props = {
   edges: Edges
@@ -27,6 +28,11 @@ const Feed = ({ edges }: Props) => (
         </h2>
         <p className={styles['feed__item-description']}>{edge.node.frontmatter.description}</p>
         <Link className={styles['feed__item-readmore']} to={edge.node.fields.slug}>Learn More</Link>
+        
+        <img
+        src={edge.node.frontmatter.socialImage}
+      />
+
       </div>
     ))}
   </div>

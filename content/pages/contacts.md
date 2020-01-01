@@ -10,20 +10,34 @@ socialImage: "/media/image-4.jpg"
 
 ## Books & People that Influence & Inspire Me
 
-+ Stewart Brand
-+ Christopher Alexander
-+ 
++ Stewart Brand, How Buildings Learn
++ Christopher Alexander, A Pattern Language
++ Glenn Weyl, Radical Markets
++ Glenn Weyl, Radical Markets
 
-## Projects I'm experimening in 
+## Work in Progress
 
 ## Intersectional Salons
-In 2019, I began hosting several multi-disipinary salons held in collaboration with my good friend, Mat Chow at IDEO.
+In 2019, I began hosting several multi-disipinary salons held in collaboration with several organizations:
 
+With Lunchclub
 + **Lorem ipsum** dolor sit amet, consectetuer adipiscing elit.
-+ Aliquam tincidunt mauris eu risus.
-+ Vestibulum auctor dapibus neque.
++ **Lorem ipsum** dolor sit amet, consectetuer adipiscing elit.
 
-## Sourdough Breadmaking
+With RadicalXChange
++ **Lorem ipsum** dolor sit amet, consectetuer adipiscing elit.
++ **Lorem ipsum** dolor sit amet, consectetuer adipiscing elit.
 
+With Scenius.io
++ **Lorem ipsum** dolor sit amet, consectetuer adipiscing elit.
++ **Lorem ipsum** dolor sit amet, consectetuer adipiscing elit.
 
-## Dysutopian Tours
+With MADA
++ **Lorem ipsum** dolor sit amet, consectetuer adipiscing elit.
+
+With Peerspace
++ **Lorem ipsum** dolor sit amet, consectetuer adipiscing elit.
+
+## Dysutopian & Innovation Tours
+In addition, I offer Dysutopian tours on Airbnb that offer a 
+

@@ -1,9 +1,9 @@
 ---
-title: "Johannes Gutenberg: The Birth of Movable Type Original"
+title: "Beautiful, Abundunt Energy"
 date: "2017-08-18T22:12:03.284Z"
 template: "post"
 draft: false
-slug: "the-birth-of-movable-type-original"
+slug: "beautiful-abundunt-energy"
 category: "Typography"
 tags:
   - "Open source"
