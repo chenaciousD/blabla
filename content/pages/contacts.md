@@ -17,7 +17,7 @@ socialImage: "/media/image-4.jpg"
 
 ## Work in Progress
 
-## Intersectional Salons
+## Creating Scenius
 In 2019, I began hosting several multi-disipinary salons held in collaboration with several organizations:
 
 With Lunchclub
