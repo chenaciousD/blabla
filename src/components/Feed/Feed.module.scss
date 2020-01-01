@@ -6,7 +6,8 @@
   &__item {
     @include margin-bottom(1.25);
     padding: 20px;
-    border-radius: 2%;
+    border-radius: 1%;
+    background-color: blue;
 
     &:last-child {
       @include margin-bottom(.5);
@@ -19,7 +20,7 @@
       @include margin-bottom(.5);
 
       &-link {
-        color: $color-base;
+        color: white;
 
         &:hover,
         &:focus {
@@ -84,7 +85,8 @@
 
   }
   &__item:hover {
-    background-image: linear-gradient(to bottom right, white, rgb(0, 140, 255))
+    box-shadow: 10px 10px;
+    
   }
 
 }
