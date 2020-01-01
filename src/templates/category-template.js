@@ -64,6 +64,7 @@ export const query = graphql`
             description
             category
             title
+            socialImage
           }
         }
       }

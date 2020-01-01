@@ -28,10 +28,8 @@ const Feed = ({ edges }: Props) => (
         </h2>
         <p className={styles['feed__item-description']}>{edge.node.frontmatter.description}</p>
         <Link className={styles['feed__item-readmore']} to={edge.node.fields.slug}>Learn More</Link>
+        <img src={edge.node.frontmatter.socialImage} width="300" />
         
-        <img
-        src={edge.node.frontmatter.socialImage}
-      />
 
       </div>
     ))}

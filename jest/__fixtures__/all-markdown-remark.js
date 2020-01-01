@@ -23,7 +23,8 @@ module.exports = {
             date: '2016-09-01',
             description: 'test_0',
             category: 'test',
-            title: 'test_0'
+            title: 'test_0',
+            socialImage: 'test_0'
           }
         }
       },
