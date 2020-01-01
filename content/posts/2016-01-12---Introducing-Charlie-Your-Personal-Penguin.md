@@ -1,5 +1,5 @@
 ---
-title: Introducing Charlie, Your own Personal Penguin Financial Advisor
+title: Introducing Charlie...
 date: "2016-12-01T22:40:32.169Z"
 template: "post"
 draft: false
@@ -9,11 +9,11 @@ description: "Pellentesque habitant morbi tristique senectus et netus et malesua
 socialImage: "/media/Charlie-Hero-Image.jpg"
 ---
 
-**Pellentesque habitant morbi tristique** senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. *Aenean ultricies mi vitae est.* Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. 
+<img src="/media/Charlie-Hero-Image.jpg" width="800" />
 
-Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.  [Donec non enim](#) in turpis pulvinar facilisis.
+##[The Ask / ](#the-ask) [The Process / ](#the-process) [The Outcome](#the-outcome)
 
-![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/image-3.jpg)
+## The Ask
 
 ## Header Level 2
 

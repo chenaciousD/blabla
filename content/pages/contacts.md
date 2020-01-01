@@ -1,5 +1,5 @@
 ---
-title: "Experiments & Inspiration"
+title: "Work In Progress"
 template: "page"
 socialImage: "/media/image-4.jpg"
 ---

@@ -3,8 +3,10 @@
 
 .feed {
   
+  
 
   &__item {
+  
     @include margin-bottom(1.25);
     padding: 20px;
     border-radius: 1%;
