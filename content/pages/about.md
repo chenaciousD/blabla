@@ -4,9 +4,7 @@ template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 
-##<span style="background-color:yellow">I collaborate with diverse teams to discover, design and develop experiences and value propositions that move the hearts and minds of people. text</span>
-
-
+##I collaborate on diverse teams to discover, design and develop experiences and value propositions that move the hearts and minds of people. 
 
 Daniel Chen is an interdisciplinary product and marketing leader based in San Francisco. His professional experiences span [finance & investing](#finance-and-investing), [design & technology](#design-and-technology), [architecture](#architecture-and-cities). He believes in the power of technology and experience design to improve all aspects of daily life. Based on his experiences in finance and design, he combines data driven analysis with qualitative intuition to make decisions. He graduated from Harvard College, *magna cum laude*, *phi beta kappa* where he wrote his thesis with [Ed Glaeser](https://en.wikipedia.org/wiki/Edward_Glaeser). He also received an MBA from Stanford Graduate School of Business in 2014. 
 
