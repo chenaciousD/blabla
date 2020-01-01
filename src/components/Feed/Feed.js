@@ -26,12 +26,12 @@ const Feed = ({ edges }: Props) => (
         <h2 className={styles['feed__item-title']}>
           <Link className={styles['feed__item-title-link']} to={edge.node.fields.slug}>{edge.node.frontmatter.title}</Link>
         </h2>
+      
+        <Link to={edge.node.fields.slug}>
+          <img src={edge.node.frontmatter.socialImage} width="100%" />
+          </Link> 
         
-        <img 
-            src={edge.node.frontmatter.socialImage}
-            className={styles['feed__item-img']}
-            width="100%"
-            />
+      
       </div>
     ))}
   </div>
