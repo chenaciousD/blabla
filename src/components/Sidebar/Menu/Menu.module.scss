@@ -24,11 +24,15 @@
         &:focus {
           color: $color-primary;
           border-bottom: 3px solid $color-primary;
+          color: $color-white;
+          background-color: $color-primary;
         }
 
         &--active {
           color: $color-base;
           border-bottom: 3px solid $color-base;
+          background-color: $color-primary;
+          color: $color-white;
           
         }
 
