@@ -12,7 +12,7 @@ tags:
 description: "Creator, an SF based startup disrupting the fast food industry asked frog to design a mobile ordering and burger customization application that showcased the power of its revolutionary machine."
 socialImage: "/media/Creator-Machine-Hero.jpg"
 ---
-<img src="/media/Creator-Burger-Hero.jpg" width="900" />
+<img src="/media/Creator-Machine-Hero.jpg" width="900" />
 
 ###[The Ask / ](#the-ask) [The Process / ](#the-process) [The Outcome](#the-outcome)
 

@@ -1,5 +1,5 @@
 ---
-title: Introducing Charlie...
+title: Introducing Charlie, Your Personal Finance Chatbot
 date: "2017-12-01T22:40:32.169Z"
 template: "post"
 draft: false

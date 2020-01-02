@@ -1,20 +1,19 @@
 ---
-title: An AI Car to Redefine the Car-Driver Relationship 
-date: "2018-08-19T22:40:32.169Z"
+title: "A Category Innovation Framework for CPG Leader"
+date: "2017-08-18T22:12:03.284Z"
 template: "post"
 draft: false
-slug: "2020-Concept-Car"
-category: "Concept Project"
+slug: "category-innovation-strategy"
+category: "Typography"
 tags:
-  - "Design"
-  - "Concept"
-  - "Research"
-  - "Mobility"
-  - "Millennials"
-description: "A major Japanese auto manufacturer asked frog to conceive what an AI-driven concept car could look like for the future."
-socialImage: "/media/Toyota-Hero-Shot.jpg"
+  - "Open source"
+  - "Gatsby"
+  - "Typography"
+description: "German inventor Johannes Gutenberg developed a method of movable type and used it to create one of the western world’s first major printed books, the “Forty–Two–Line” Bible."
+socialImage: "/media/Unilever-Cover.jpg"
 ---
-<img src="/media/Toyota-Hero-Shot.jpg" width="900" />
+
+<img src="/media/Unilever-Cover.jpg" width="900" />
 
 ###[The Ask / ](#the-ask) [The Process / ](#the-process) [The Outcome](#the-outcome)
 
@@ -40,21 +39,15 @@ During our discovery phase, the team looked to several areas of inspiration whic
 
 The team came up with a unique way of expressing distinct concepts through fictional movie posters and narratives that expressed core ideas of each concept. We created eight movie poster concepts, each narrative was based on different types of relationships that could inspire different types of car and driver relationships and interactions.
 
-<img src="/media/Toyota-Conceptual-Directions.jpg" alt="AGL" width="600"/>
-
-Two conceptual directions emerged as the top picks: Nature vs. Nurture and Tsundere. Alongside these conceptual directions, we identified key words, images that emotionally expressed the essence of the concept. 
-
-<img src="/media/Toyota-Concept-Comparisons.jpg" alt="AGL" width="600"/>
-
 ## The Outcome
 
 frog delivered a differentiated concept, signature experiences, and an interaction model designed to strengthen the relationship between car and driver over time through shared creation, experiences and care.
 
-### Relationship Learning Model
+### Customer Jobs to Be Done
 
 This relationship model was based on primary resaerch with millennials who stated that discovery and well-being were key motivators for meaning in the 21st century.
 
-![Toyota Relationship Model.jpg](/media/Toyota-Relationship-Model.jpg)
+<img src="/media/Unilever-Territories.jpg" width="600" />
 
 <figure>
 	<blockquote>
@@ -69,13 +62,13 @@ This relationship model was based on primary resaerch with millennials who state
 
 Nature vs Nurture inspired the final interaction model which was a disembodied "AI" that was able to move across the car in an almost spirit like fashion. A core 
 
-![Toyota IXD Model.jpg](/media/Toyota-IXD-Model.jpg)
+<img src="/media/Unilever-Positioning.jpg" width="600" />
 
 ### A Set of Differentiated Signature Moments
 
 Based on the Nature vs Nurture concept direction, we generated several signature moments and ideas that would express the essence of the concept. Below are a few of these concepts that were ultimately brought to life in the final prototype:
 
-![Toyota Sign Language.jpg](/media/Toyota-Sign-Language.jpg)
+<img src="/media/Unilever-Journey.jpg" width="600" />
 
 In 2017, our client launched the concept at [CES](https://www.theverge.com/2017/1/4/14169960/toyota-concept-i-artificial-intelligence-yui) where it was awarded a Best of CES.  
 
