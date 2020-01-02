@@ -44,4 +44,9 @@ My professional background also includes substantial experience in physical, env
 + Stewart Brand, How Buildings Learn
 + Christopher Alexander, A Pattern Language
 + Glenn Weyl, Radical Markets
-+ Glenn Weyl, Radical Markets
++ Jane Jacobs, The Life and Death of American Cities
++ Shoshana Zuboff, Surveillance Capitalism
++ Fred Turner, From Counterculture to Cyberculture
++ Bjarke Ingels, Yes is More
++ George Nelson, How to See
+

@@ -1,6 +1,6 @@
 ---
 title: Introducing Charlie...
-date: "2016-12-01T22:40:32.169Z"
+date: "2017-12-01T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "charlie-financial-advisor"
@@ -15,37 +15,64 @@ socialImage: "/media/Charlie-Hero-Image.jpg"
 
 ## The Ask
 
-## Header Level 2
+Charlie Finance is a xxXX.
 
-+ Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-+ Aliquam tincidunt mauris eu risus.
+## The Process
 
-Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. 
+The frog team was comprised of interaction designers, visual designers, strategists and industrial designers collaborating on mutliple streams of work to conceive a concept that was differenitated, on brand and a radical departure from the status quo. 
+
+My Specific Role Included:
+- Millennial consumer target research 
+- Interaction model conceptualization
+- Relationship model conceptualization 
+- Signature moment and conceptual direction storytelling
+- Facilitate key client workshops and activities
+- Car-driver narrative and AI personality definition
+
+During our discovery phase, the team looked to several areas of inspiration which included filmes, movies, startups, and new technology capabilities. 
+
+<img src="/media/Charlie-Brand-Directions.jpg" alt="AGL" width="600"/>
+
+The team came up with a unique way of expressing distinct concepts through fictional movie posters and narratives that expressed core ideas of each concept. We created eight movie poster concepts, each narrative was based on different types of relationships that could inspire different types of car and driver relationships and interactions.
+
+<img src="/media/Charlie-Inspiration.jpg" alt="AGL" width="600"/>
+
+Two conceptual directions emerged as the top picks: Nature vs. Nurture and Tsundere. Alongside these conceptual directions, we identified key words, images that emotionally expressed the essence of the concept. 
+
+<img src="/media/Charlie-Relationship-Model.jpg" alt="AGL" width="600"/>
+
+## The Outcome
+
+frog delivered a differentiated concept, signature experiences, and an interaction model designed to strengthen the relationship between car and driver over time through shared creation, experiences and care.
+
+### Relationship Learning Model
+
+This relationship model was based on primary resaerch with millennials who stated that discovery and well-being were key motivators for meaning in the 21st century.
+
+![Toyota Relationship Model.jpg](/media/Charlie-Origin-Story.jpg)
 
 <figure>
 	<blockquote>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida. Curabitur massa. Donec eleifend, libero at sagittis mollis, tellus est malesuada tellus, at luctus turpis elit sit amet quam. Vivamus pretium ornare est.</p>
+		<p>This is a car that grows with you. The more you drive, the smarter it gets. It's like an oversized, mobile Tamagotchi.</p>
 		<footer>
-			<cite>— Aliquam tincidunt mauris eu risus.</cite>
+			<cite>The Verge, 2017</cite>
 		</footer>
 	</blockquote>
 </figure>
 
-### Header Level 3
+### Multi-modal Interaction Model
 
-+ Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-+ Aliquam tincidunt mauris eu risus.
+Nature vs Nurture inspired the final interaction model which was a disembodied "AI" that was able to move across the car in an almost spirit like fashion. A core 
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra.
+![Charlie Value prop.gif](/media/Charlie-Value-Prop.gif)
 
-```css
-#header h1 a {
-  display: block;
-  width: 300px;
-  height: 80px;
-}
-```
+### A Set of Differentiated Signature Moments
 
-Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+Based on the Nature vs Nurture concept direction, we generated several signature moments and ideas that would express the essence of the concept. Below are a few of these concepts that were ultimately brought to life in the final prototype:
 
-![Test SVG](/media/cpu.svg)
+![Charlie Social.jpg](/media/Charlie-Social.jpg)
+
+In 2017, our client launched the concept at [CES](https://www.theverge.com/2017/1/4/14169960/toyota-concept-i-artificial-intelligence-yui) where it was awarded a Best of CES.  
+
+
+![Charlie Model.jpg](/media/Charlie-Model.jpg)

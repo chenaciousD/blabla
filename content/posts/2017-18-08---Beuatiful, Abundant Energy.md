@@ -1,9 +1,9 @@
 ---
-title: "Beautiful, Abundunt Energy"
+title: "A Category Innovation Framework for CPG Leader"
 date: "2017-08-18T22:12:03.284Z"
 template: "post"
 draft: false
-slug: "beautiful-abundunt-energy"
+slug: "category-innovation-strategy"
 category: "Typography"
 tags:
   - "Open source"
