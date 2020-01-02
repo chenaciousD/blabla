@@ -12,7 +12,11 @@
     list-style: none;
     padding: 0;
     margin: 10px -3px;
+    
     width: 400px;
+    align-content: center;
+    align-items: center;
+    
 
     &-item {
       padding: 0;
@@ -52,7 +56,7 @@
   .contacts__list {
     display: flex;
     flex-flow: row wrap;
-    width: 140px;
-
+    width: 200px;
+  
   }
 }

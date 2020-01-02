@@ -1,5 +1,5 @@
 ---
-title: Transforming an Energy Utility into a Customer Experience Leader
+title: Transforming an Energy Utility into a CX Leader
 date: "2017-08-19T22:40:32.169Z"
 template: "post"
 draft: false
@@ -16,7 +16,7 @@ socialImage: "/media/AGL-Cover-Shot.jpg"
 
 Frog was engaged by the CEO, CTO and executive leadership team of Australia’s largest utility to conceptualize, design and roadmap the future of their digital products and overall end to end customer experience.
 
-[The Ask](#the-ask) [The Process](#the-process) [The Outcome](#the-outcome)
+###[The Ask](#the-ask) [The Process](#the-process) [The Outcome](#the-outcome)
 
 ## The Ask
 

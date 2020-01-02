@@ -2,11 +2,10 @@
 @import '../../assets/scss/mixins';
 
 .feed {
-  
-  
+  lost-utility: clearfix;
 
   &__item {
-  
+    lost-column: 11/12;
     @include margin-bottom(1.25);
     padding: 20px;
     border-radius: 1%;
@@ -94,8 +93,18 @@
 
   }
   &__item:hover {
-    
     background-color:$color-secondary; 
   }
+}
 
+@include breakpoint-sm {
+  .feed__item {
+    lost-column: 11/12;
+}
+}
+
+@include breakpoint-md {
+  .feed__item {
+    lost-column: 5/12;
+  }
 }
