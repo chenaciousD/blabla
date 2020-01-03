@@ -31,7 +31,7 @@ module.exports = {
   author: {
     name: 'Daniel Chen',
     photo: '/photo.jpg',
-    bio: 'Daniel Chen is a designer, entrepreuneur, and product leader with experience across finance, design and technology.',
+    bio: 'Daniel Chen is a product leader with experience across finance, design and technology.',
     contacts: {
       email: '',
       facebook: '',
