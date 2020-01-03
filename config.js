@@ -22,6 +22,10 @@ module.exports = {
     {
       label: 'Work in Progress',
       path: '/pages/contacts'
+    },
+    {
+      label: 'Gallery',
+      path: '/gallery'
     }
   ],
   author: {
