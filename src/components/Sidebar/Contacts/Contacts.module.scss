@@ -12,13 +12,10 @@
     list-style: none;
     padding: 0;
     margin: 10px -3px;
-    margin-left: auto;
-
-    width: 400px;
-    align-content: center;
-    align-items: center;
+    justify-content: center;
     
-
+  
+  
     &-item {
       padding: 0;
       margin: 4px;
@@ -58,6 +55,6 @@
     display: flex;
     flex-flow: row wrap;
     width: 200px;  
-    margin-left: 0;
+    justify-content: left;
   }
 }
