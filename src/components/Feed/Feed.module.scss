@@ -14,13 +14,12 @@
   
 
     &:last-child {
-      
       @include margin-bottom(.5);
     }
 
     &-image {
       border-radius: 5%;
-      max-height: 163px;
+      max-height: 600px;
       
     }
 
@@ -104,12 +103,22 @@
 @include breakpoint-sm {
   .feed__item {
     lost-column: 11/12;
-}
+  }
+  
+  .feed__item-image {
+  border-radius: 5%;
+  max-height: 600px;
+  }
 }
 
 @include breakpoint-md {
   .feed__item {
     lost-column: 5/12;
     
+  }
+  
+  .feed__item-image {
+    border-radius: 5%;
+    max-height: 163px;
   }
 }
