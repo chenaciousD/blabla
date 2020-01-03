@@ -13,6 +13,10 @@ type Props = {
   }
 };
 
+const divStyle = {
+  backgroundColor: '#effffb'
+};
+
 const PageTemplate = ({ data }: Props) => {
   const { title: siteTitle, subtitle: siteSubtitle } = useSiteMetadata();
   const { html: pageBody } = data.markdownRemark;
@@ -21,12 +25,14 @@ const PageTemplate = ({ data }: Props) => {
   const metaDescription = pageDescription !== null ? pageDescription : siteSubtitle;
 
   return (
+    <div style={divStyle}>
     <Layout title={`${pageTitle} - ${siteTitle}`} description={metaDescription} socialImage={socialImage} >
       <Sidebar />
       <Page title={pageTitle}>
         <div dangerouslySetInnerHTML={{ __html: pageBody }} />
       </Page>
     </Layout>
+    </div>
   );
 };
 

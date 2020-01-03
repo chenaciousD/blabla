@@ -4,7 +4,7 @@ date: "2017-08-19T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "transforming-an-energy-utility"
-category: "Consumer Tech"
+category: "Digital Transformation"
 tags:
   - "Design"
   - "Concept"
@@ -26,7 +26,7 @@ In 2017, Australia's leading energy utility approached frog to partner on a majo
 
 The frog team was comprised of interaction designers, visual designers, strategists and solution architects collaborating on mutliple streams of work to ensure an engagement that balanced business, design and technology requirements and understanding. 
 
-Individual Activities Included:
+My role on the team included:
 - Define key customer and prioritization frameworks
 - Contribute to interaction and visual design brainstorms and critiques
 - Facilitate key client workshops and activities

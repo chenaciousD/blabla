@@ -5,7 +5,7 @@ module.exports = {
   pathPrefix: '/',
   title: 'Daniel Chen',
   subtitle: 'Hey! I conceptualize, design, and build experiences for consumers and businesses.',
-  copyright: '© All rights reserved.',
+  copyright: '© Images for personal portfolio use only. All work is teamwork, representing the close collaboration of many frogs.',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
@@ -35,7 +35,7 @@ module.exports = {
     contacts: {
       email: '',
       facebook: '',
-      telegram: '',
+      telegram: 'chenaciousD',
       twitter: 'chenaciousD',
       github: '',
       rss: '',
