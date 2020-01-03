@@ -14,6 +14,10 @@ type Props = {
   pageContext: PageContext
 };
 
+const divStyle = {
+  backgroundColor: 'yellow'
+};
+
 const IndexTemplate = ({ data, pageContext }: Props) => {
   const { title: siteTitle, subtitle: siteSubtitle } = useSiteMetadata();
 
@@ -30,6 +34,7 @@ const IndexTemplate = ({ data, pageContext }: Props) => {
   const pageTitle = currentPage > 0 ? `Posts - Page ${currentPage} - ${siteTitle}` : siteTitle;
 
   return (
+    <div style={divStyle}>
     <Layout title={pageTitle} description={siteSubtitle}>
       <Sidebar isIndex />
       <Page>
@@ -41,7 +46,9 @@ const IndexTemplate = ({ data, pageContext }: Props) => {
           hasNextPage={hasNextPage}
         />
       </Page>
+     
     </Layout>
+    </div>
   );
 };
 

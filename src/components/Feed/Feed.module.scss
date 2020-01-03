@@ -20,7 +20,8 @@
 
     &-image {
       border-radius: 5%;
-      max-height: 134px;
+      max-height: 163px;
+      
     }
 
     &-title {
@@ -109,6 +110,6 @@
 @include breakpoint-md {
   .feed__item {
     lost-column: 5/12;
-    max-height: 38%;
+    
   }
 }

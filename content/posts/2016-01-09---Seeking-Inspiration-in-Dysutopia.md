@@ -1,5 +1,5 @@
 ---
-title: Seeking Inspiration in Dysutopia
+title: What is the future of cities - from utopia to dystopia to dysUtopia.
 date: "2016-09-01T23:46:37.121Z"
 template: "post"
 draft: false
@@ -9,7 +9,7 @@ tags:
   - "Handwriting"
   - "Learning to write"
 description: "A trip based on derive. An extended urban environmental exploration combined with investigation, design research and first hand experience."
-socialImage: "/media/image-2.jpg"
+socialImage: "/media/Creator-Machine-Hero.jpg"
 ---
 
 Looking for Dysutopia
