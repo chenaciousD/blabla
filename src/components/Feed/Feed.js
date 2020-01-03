@@ -28,7 +28,7 @@ const Feed = ({ edges }: Props) => (
         </h2>
       
         <Link to={edge.node.fields.slug}>
-          <img src={edge.node.frontmatter.socialImage} max-height="1000px" />
+          <img src={edge.node.frontmatter.socialImage} className={styles['feed__item-image']} />
           </Link> 
         
       
