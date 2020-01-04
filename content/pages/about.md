@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 template: "page"
-socialImage: "/media/image-2.jpg"
+socialImage: "/photo.jpg"
 ---
 
 ##I collaborate on multidisciplinary teams to discover, design and develop products meaningful to people.
@@ -15,7 +15,7 @@ Thanks for visiting my site! I am an interdisciplinary product and marketing lea
 ## Design and Technology
 From 2014 to 2019, I was a principal at [frog design](https://www.frogdesign.com) where I led design/strategy engagements as well as frog's early stage design and investing practice in the US. In this role, I maintained frog’s relationships with the entrepreneurship ecosystem, sourced potential startups to invest in, negotiated term sheets with potential startups and co-led projects across product, brand and marketing for portfolio companies. Engagements that I either led or contributed to include:
 
-+ Product design & development processes spanning digital and physical.
++ Product design & development spanning digital and physical.
 + Customer Discovery & Design Research
 + Brand Strategy and Experience Design
 + Go to Market Strategy, Product Marketing, Messaging
