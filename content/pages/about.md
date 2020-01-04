@@ -4,9 +4,9 @@ template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 
-##I collaborate on diverse teams to discover, design and develop products meaningful to people.
+##I collaborate on multidisciplinary teams to discover, design and develop products meaningful to people.
 
-Thanks for visiting my site! I am an interdisciplinary product and marketing leader based in San Francisco. My professional experiences span [finance & investing](#finance-and-investing), [design & technology](#design-and-technology), [architecture](#architecture-and-cities). I believe in the power of technology and experience design to improve all aspects of life - professional and personal. Based on my experiences in finance/economics and design, I bring data driven analysis to qualitative design-led intuition. I graduated from Harvard College, *magna cum laude*, *phi beta kappa* where I wrote my Economics thesis with [Ed Glaeser](https://en.wikipedia.org/wiki/Edward_Glaeser). Along the way, I also got an MBA at Stanford Graduate School of Business.
+Thanks for visiting my site! I am an interdisciplinary product and marketing leader based in San Francisco. My professional experiences span [finance & investing](#finance-and-investing), [design & technology](#design-and-technology), [architecture](#architecture-and-cities). I believe in the power of technology and experience design to improve all aspects of life - professional and personal. Based on my experiences in finance/economics and design, I bring data driven analysis to qualitative design-led intuition. I graduated from Harvard College, *magna cum laude*, *phi beta kappa* where I wrote my Economics [thesis](/media/Pricing-Dynamics-of-Manhattan.pdf) with [Ed Glaeser](https://en.wikipedia.org/wiki/Edward_Glaeser). Along the way, I also got an MBA at Stanford Graduate School of Business.
 
 <img src="/media/Background-About.jpg" width="100%" class="float-right" />
 
