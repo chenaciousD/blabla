@@ -19,7 +19,7 @@ socialImage: "/media/Unilever-Cover.jpg"
 
 ## The Ask
 
-In 2016, a Japanese Automaker engaged frog to help reconceptualize what a car for the 21st century could be. In particular, they asked to reimagine what the relationship between a car and driver could feel like based on new advances in artificial intelligence and autonomous driving. The engagmenet focused primarily on the core essence of the concept, interaction model and key signature moments. Several partners were involved in bringing this concept to life which eventually launched publicly in 2017.
+In 2016, a Japanese Automaker engaged frog to help reconceptualize what a car for the 21st century could be. In particular, they asked to reimagine what the relationship between a car and driver could feel like based on new advances in artificial intelligence and 
 
 ## The Process
 
@@ -37,7 +37,7 @@ During our discovery phase, the team looked to several areas of inspiration whic
 
 <img src="/media/Toyota-Technology-Research.jpg" alt="AGL" width="600"/>
 
-The team came up with a unique way of expressing distinct concepts through fictional movie posters and narratives that expressed core ideas of each concept. We created eight movie poster concepts, each narrative was based on different types of relationships that could inspire different types of car and driver relationships and interactions.
+ We created eight movie poster concepts, each narrative was based on different types of relationships that could inspire different types of car and driver relationships and interactions.
 
 ## The Outcome
 
@@ -49,22 +49,13 @@ This relationship model was based on primary resaerch with millennials who state
 
 <img src="/media/Unilever-Territories.jpg" width="600" />
 
-<figure>
-	<blockquote>
-		<p>This is a car that grows with you. The more you drive, the smarter it gets. It's like an oversized, mobile Tamagotchi.</p>
-		<footer>
-			<cite>The Verge, 2017</cite>
-		</footer>
-	</blockquote>
-</figure>
-
-### Multi-modal Interaction Model
+### Substitute Category Positioning
 
 Nature vs Nurture inspired the final interaction model which was a disembodied "AI" that was able to move across the car in an almost spirit like fashion. A core 
 
 <img src="/media/Unilever-Positioning.jpg" width="600" />
 
-### A Set of Differentiated Signature Moments
+### A Journey from Entry to Essence
 
 Based on the Nature vs Nurture concept direction, we generated several signature moments and ideas that would express the essence of the concept. Below are a few of these concepts that were ultimately brought to life in the final prototype:
 
