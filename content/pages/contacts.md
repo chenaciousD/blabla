@@ -4,16 +4,35 @@ template: "page"
 socialImage: "/media/image-4.jpg"
 ---
 
-Below are several projects that I'm working on at the moment:
+In addition my day job, I'm also working on several side projects that I would love your input on!
 
-## Creating Scenius
-In 2019, I began hosting  multi-disipinary salons held in collaboration with several organizations. 
+## Urban Salons to Instigate Scenius
+In 2019, I began hosting  multi-disipinary salons discussing the future of cities through the lens of architecture, community-building,real estate, design, technology, and culture. 
 
-## Cooking & Coding
-In 2019, I began hosting several multi-disipinary salons held in collaboration with several organizations. 
+The first salon was held in collaboration with [Enorme Studio](https://enormestudio.es). 
 
-## The Intersection of Physical & Digtal UX
-Radical Exchange [ ... ]
+<img src="/media/Loft-Salon.jpg" width="100%"  />
 
-## The Intersection of Physical & Digtal UX
-Radical Exchange [ ... ]
+Let me know you would like to attend one or if you would like to present your work or ideas to instigate conversation:
+
+Topics of Particular Interest
++ Values-driven Housing
++ Cities without cars
++ Flexible spaces
++ Post-suburbia
++ Intergenerational Housing
++ Radical property markets and rights
++ The Intersection of Digital & Physical UX - how digital communities cna learn from centuries of placemaking
+
+## Coding
+
+I've been teaching myself to code recently.
+
++ This site was built on JAMstack, using GatsbyJS as a static site generator, React for the UI and Netlify for CMS and CDN.
+
+
+## Cooking
+
+Here is a recipe app that I'm currently building.
+
++ This site was built on JAMstack, using GatsbyJS as a static site generator, React for the UI and Netlify for CMS and CDN.

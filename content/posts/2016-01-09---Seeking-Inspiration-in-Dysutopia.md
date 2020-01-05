@@ -9,7 +9,7 @@ tags:
   - "Handwriting"
   - "Learning to write"
 description: "A trip based on derive. An extended urban environmental exploration combined with investigation, design research and first hand experience."
-socialImage: "/media/Creator-Machine-Hero.jpg"
+socialImage: "/media/Dysutopia-Image.jpg"
 ---
 
 Looking for Dysutopia

@@ -1,5 +1,5 @@
 ---
-title: Making Inspiration - Personalized, Curated, Actionable - From the Source
+title: Making Inspiration - Personalized, Curated, Actionable
 date: "2016-09-01T23:46:37.121Z"
 template: "post"
 draft: false
@@ -9,7 +9,7 @@ tags:
   - "Handwriting"
   - "Learning to write"
 description: "A trip based on derive. An extended urban environmental exploration combined with investigation, design research and first hand experience."
-socialImage: "/media/Creator-Machine-Hero.jpg"
+socialImage: "/media/Inspo-Hero-Shot.jpg"
 ---
 
 Looking for Dysutopia
