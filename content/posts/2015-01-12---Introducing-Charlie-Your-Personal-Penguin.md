@@ -1,5 +1,5 @@
 ---
-title: Introducing Charlie, Your Personal Finance Chatbot
+title: Introducing Charlie, Your Personal Financial Assistant
 date: "2017-11-01T22:40:32.169Z"
 template: "post"
 draft: false
@@ -15,33 +15,30 @@ socialImage: "/media/Charlie-Hero-Image.jpg"
 
 ## The Ask
 
-Charlie Finance, a Series A startup approached frog for a brand/product/marketing engagement for a financial assistant chatbot that users interacted exclusively over text or Facebook messenger.
+[Charlie Finance](https://www.hicharlie.com), a Series A startup approached frog for a brand/product/marketing engagement for a financial assistant chatbot that users interacted exclusively over text or Facebook messenger.
 
 ## The Process
 
-The frog team was comprised of interaction designers, visual designers, and copywriters collaborating on mutliple streams of work to conceive a product, brand and character that was differenitated and delightful to Charlie's core use base.
+The frog team was comprised of interaction designers, visual designers, and copywriters and my role included:
 
-My Specific Role Included:
 - Facilitation of key client alignment and reviews
-- Contribute to Interaction model conceptualization
+- Contribute to Interaction model conceptualization and signature moments
 - Contribute to AI relationship model
 - Marketing and storytelling narrative for landing page
 - Social media headlines and copywriting 
-- Character development and origin story
+- Brand/character development and origin story
 
-During our discovery phase, the team looked to several areas of inspiration - from animals to robots to abstract chat bubbles.
-
-<img src="/media/Charlie-Brand-Directions.jpg" alt="AGL" width="600"/>
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+During our discovery phase, the team looked to several areas of inspiration - from animals to robots to abstract chat bubbles:
 
 <img src="/media/Charlie-Inspiration.jpg" alt="AGL" width="600"/>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+As part of our divergence process, we created three brand directions that included sample marketing copy, sample visual identities and sample brand strategic directions:
+
+<img src="/media/Charlie-Brand-Directions.jpg" alt="AGL" width="600"/>
 
 ## The Outcome
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+We ultimately selected a robotic penguin mascot because of its innate friendly demeanor, its loyalty, and intelligence. We also conducted several quantitative A/B tests to assess the penguin's performance relative to other identity/brand strategic directions. 
 
 <figure>
 	<blockquote>
@@ -52,23 +49,23 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 	</blockquote>
 </figure>
 
-### Sticky Copwriting 
+### Landing on A Day in the Life of Charlie
 
-This relationship model was based on primary resaerch with millennials who stated that discovery and well-being were key motivators for meaning in the 21st century.
+The core concept of the marketing landing page of Charlie was to show Charlie in action. As the user scrolls through the page, you see potential scenarios that Charlie can help with - from acting like an investigator to help you reduce your bills to guarding your bank account against extra charges. We gave Charlie a symbolic set of tools to represent all he could do for his customers.
 
-![Charlie Social.jpg](/media/Charlie-Social.jpg)
+![Charlie Value prop.gif](/media/Charlie-Value-Prop.gif)
 
 ### A Relationship Designed to Build Trust over Time
 
-Nature vs Nurture inspired the final interaction model which was a disembodied "AI" that was able to move across the car in an almost spirit like fashion. A core 
+Lorem ipsum.
 
 <img src="/media/Charlie-Relationship-Model.jpg" alt="AGL" width="600"/>
 
-### A Landing Page that Expresses Value Props through Charlie actions
+### Sticky Copwriting for Social
 
-Based on the Nature vs Nurture concept direction, we generated several signature moments and ideas that would express the essence of the concept. Below are a few of these concepts that were ultimately brought to life in the final prototype:
+Finally, we also delivered a toolkit of social media campaign assets that included visuals and messaging that the company could use for customer acquisition.
 
-![Charlie Value prop.gif](/media/Charlie-Value-Prop.gif)
+![Charlie Social.jpg](/media/Charlie-Social.jpg)
 
 Start chatting with [Charlie](https://www.hicharlie.co) and ask him for a joke!
 

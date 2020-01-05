@@ -22,16 +22,12 @@ module.exports = {
     {
       label: 'Work in Progress',
       path: '/pages/contacts'
-    },
-    {
-      label: 'Gallery',
-      path: '/gallery'
     }
   ],
   author: {
     name: 'Daniel Chen',
     photo: '/photo.jpg',
-    bio: 'Daniel Chen is a product & marketing leader, and alum of frog design & Stanford GSB. This site is a personal blog showcasing portfolio work, recent experiments, and musings at the intersection of finance, design, ethics, technology, and architecture.',
+    bio: 'Daniel Chen is a product & marketing leader (alum of frog design & Stanford GSB). This site is a work in progress. personal blog showcasing portfolio work, recent experiments, and musings at the intersection of finance, design, ethics, technology, and architecture.',
     contacts: {
       email: '',
       facebook: '',
