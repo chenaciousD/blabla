@@ -19,7 +19,8 @@ From 2014 to 2019, I was a principal at [frog design](https://www.frogdesign.com
 
 + Product design & agile development processes
 + Customer Discovery & Design Research
-+ Brand Strategy and Experience Design
++ Brand Strategy and Brand Creative Direction/Expression
++ Experience/Service Design
 + Go to Market Strategy, Product Marketing, Messaging
 + Workshop Facilitation and Design
 + Venture Design and Corporate Venturing
