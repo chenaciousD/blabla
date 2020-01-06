@@ -51,6 +51,7 @@ My professional background also includes substantial experience in and a passion
 + Fred Turner, From Counterculture to Cyberculture
 + Bjarke Ingels, Yes is More
 + George Nelson, How to See
++ [ more to come ... ]
 
 ### Dystopia and Utopias
 Recently, I embarked on a 15 city tour of Europe to study the future of housing. Look here to read more about the journey.
