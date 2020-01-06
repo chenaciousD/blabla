@@ -54,21 +54,21 @@ Key business objectives were seamless meal creation, burger customization and a 
 
 frog designed the core experience of the MVP mobile application that has since launched and is currently being used by Creator's own burger concierge staff within the restaurant. Every element of the app - from the nav to the persistent smart cart - was designed to maximize user delight and deliver key business goals such as seamless meal creation and burger customization.
 
-<img src="/media/Creator-Animation.gif" width="300"/>>
+<img src="/media/Creator-Animation.gif" width="300"/>
 
-### An Interaction Model Tailored for All Burger Lovers
+### An Interaction Model that Delivers on Delight & Business Objectives
 
 The three tab navigation - profile, featured meal menu, and ala carte menu are designed to directly facilitate the needs of our three identified archetypes, the efficiency maximizer, the explorer and the burger tinkerer. This navigation allows for the speediest path to ordering the freshest burger in the fewest number of taps.
 
 <img src="/media/Creator-Hero-Three-Panel.jpg" alt="AGL" width="700"/>
 
-### An Innovative Way to Fine Tune your Perfect Burger
+### Fine Tune your Perfect Burger
 
 For the burger tinkerers, we also created an delightful and fun interaction "filtering" experience that visualizes, real-time, their personalized burger. Each ingredient - pattie, # of pickles, sauces, meltiness - users can tap, toggle, and slide their way to burger perfection. (Note: this functionality has not launched yet).
 
 <img src="/media/Creator-Onboarding-Hero.jpg" alt="AGL" width="800"/>
 
-### A Marketing Landing Page The Elevates Quality and Personalization
+### Marketing Freshness, Ingredient Quality and Culinary Creativity
 
 Lastly, our engagement provided marketing asset templates including elements of the landing page including key marketing copy and photography assets of the machine, ingredients and burgers. One core marketing campaign idea was how Creator's machine enabled greater creativity.
 

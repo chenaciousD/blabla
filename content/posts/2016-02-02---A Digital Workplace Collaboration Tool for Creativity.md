@@ -1,15 +1,14 @@
 ---
-title: "A Next Generation Digital Whiteboard for Collaboration"
+title: "A Digital Whiteboard for Creative Collaboration"
 date: "2016-02-02T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "an-app-for-pure-inspiration"
-category: "Design Inspiration"
+slug: "digital-whiteboard-collaboration"
+category: "Design Concept"
 tags:
-  - "Linotype"
-  - "Monotype"
-  - "History of typography"
-  - "Helvetica"
+  - "Hardware"
+  - "Product Strategy"
+  - "Digital Workplace"
 description: "Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat."
 socialImage: "/media/Sentons-Hero.jpg"
 ---
@@ -20,13 +19,11 @@ socialImage: "/media/Sentons-Hero.jpg"
 
 ## The Ask
 
-**Pellentesque habitant morbi tristique** senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. *Aenean ultricies mi vitae est.* Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. 
-
-
+A Series B-funded, touchscreen technology provider asked frog to translate its compelling technology capabilities into a collaboration product for the digital workplace.
 
 ## What are the modes and types of collaboration?
 
-Based on primary qualitative resaerch, we identified 4 collaboration typologies and use cases to frame our opportunities. Each of these collaboration use cases required different types of features and interaction models.
+We started with the questions: how do teams collaborate? what collaboration use cases are most under-served? Based on primary qualitative resaerch, we identified 4 collaboration typologies and use cases to frame our opportunities. Each of these collaboration use cases required different types of features and interaction models.
 
 <img src="/media/Sentons-Collaboration-Use-Cases.jpg" width="500" />
 
@@ -42,4 +39,5 @@ For each concept, we created sample positioning, sample customer types, and key 
 
 <img src="/media/Sentons-Concept-Board.jpg" width="900" />
 
-Based on a down selection process, we identified Portal as the concept to move forward with and further refined/developed the interaction model, signature experiences, and industrial design.
+Based on a down selection process, we identified Portal as the concept to move forward with and further refined/developed the interaction model, signature experiences, and industrial design. The project is still under development.
+

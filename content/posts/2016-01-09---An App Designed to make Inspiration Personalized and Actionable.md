@@ -3,11 +3,12 @@ title: Making Inspiration - Personalized, Curated, Actionable
 date: "2016-09-01T23:46:37.121Z"
 template: "post"
 draft: false
-slug: "seeking inspiration in dysutopia"
-category: "Design Inspiration"
+slug: "making-inspiration-actionable"
+category: "Mobile"
 tags:
-  - "Handwriting"
-  - "Learning to write"
+  - "Consumer Tech"
+  - "Social Media"
+  - "Agile Development"
 description: "A trip based on derive. An extended urban environmental exploration combined with investigation, design research and first hand experience."
 socialImage: "/media/Inspo-Hero-Shot.jpg"
 ---
