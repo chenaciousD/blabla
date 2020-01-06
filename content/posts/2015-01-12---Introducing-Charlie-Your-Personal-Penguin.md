@@ -19,14 +19,13 @@ socialImage: "/media/Charlie-Hero-Image.jpg"
 
 ## The Process
 
-The frog team was comprised of interaction designers, visual designers, and copywriters and my role included:
-
+The frog team was comprised of interaction designers, visual designers, and copywriters. **My role included**:
 - Facilitation of key client alignment and reviews
+- Marketing and storytelling narrative for landing page
+- Brand/character development and origin story
 - Contribute to Interaction model conceptualization and signature moments
 - Contribute to AI relationship model
-- Marketing and storytelling narrative for landing page
 - Social media headlines and copywriting 
-- Brand/character development and origin story
 
 During our discovery phase, the team looked to several areas of inspiration - from animals to robots to abstract chat bubbles:
 
@@ -55,15 +54,15 @@ The core concept of the marketing landing page of Charlie was to show Charlie in
 
 <img src="/media/Charlie-Value-Prop.gif" alt="AGL" width="400"/>
 
-### A Relationship Designed to Build Trust over Time
+### A Relationship that Evolves 
 
-Lorem ipsum.
+As part of our engagement, we also created a interaction framework that showed how Charlie's relationship with users could evolve and grow over time as users began to trust Charlie. We created a criteria of key events and actions that quantified the strength of the relationship and upon reaching certain milestones, Charlie would release new functionality.
 
-<img src="/media/Charlie-Relationship-Model.jpg" alt="AGL" width="500"/>
+<img src="/media/Charlie-Relationship-Model.jpg" alt="AGL" width="8	00"/>
 
-### Sticky Copwriting for Social
+### Customer Acquisition Kit of Parts
 
-Finally, we also delivered a toolkit of social media campaign assets that included visuals and messaging that the company could use for customer acquisition.
+Lastly, we delivered a toolkit of social media campaign assets that included visuals and messaging that the company could use for customer acquisition.
 
 <img src="/media/Charlie-Social.jpg" alt="AGL" width="400"/>
 

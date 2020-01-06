@@ -53,9 +53,7 @@ Finally, across all of the Customer Events, we aligned on a set of 40 major Cust
 
 ![AGL-Customer-Initiative.jpg](/media/AGL-Customer-Initiative.jpg)
 
-### Design Language System and Differentiate Signature Moments
-
-![AGL-DLS.jpg](/media/AGL-DLS.jpg)
+### Signature Customer Experiences 
 
 Across all Customer Events, frog conceptualized several differentiated signature moments that addressed distinct customer needs that were gathered from primary research. Below is just one example of a signature moment that addressed our need to understand how our energy is used and how the price is calculated.
 
