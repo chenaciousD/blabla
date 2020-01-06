@@ -19,7 +19,7 @@ socialImage: "/media/AT&T-Sigmo.jpg"
 
 ## The Ask
 
-A large US telco asked frog to re-imagine what the customer experience of 2020. The telco had recently acquired new media assets that increased its competitive offerings and enabled it to offer far greater content to its customers. 
+A leading US telco asked frog to re-imagine the company's end to end customer experience for 2020. The telco had recently acquired new media assets that increased its competitive offerings and enabled it to offer far greater content to its customers. 
 
 ## The Process
 
@@ -30,7 +30,7 @@ The frog team was comprised of interaction designers, visual designers, and stra
 - Contribute to concepting and articulation of signature moments
 - Storyboard illustrative animations and narratives for key executives
 
-Our participatory resaerch process included speaking with 25 customers, visiting their homes to understand their painpoints and emergent cusotomer needs. We created several activites to help surface topics during our interviews. One activity included showing customers analogous experiences and asking them to draw parallels to their telco experience.
+Our participatory design research process included speaking with 25 customers, visiting their homes to understand their painpoints and emergent cusotomer needs. We created several activites to help surface topics during our interviews. One activity included showing customers analogous experiences and asking them to draw parallels to their telco experience.
 
 <img src="/media/AT&T-Research.jpg" alt="AGL" width="600"/>
 
@@ -48,7 +48,7 @@ Within each event, we also created a framework of objectives, principles and met
 
 ### A Collection of Concepts and Ideas Aligned to Core User Needs
 
-![AT&T-2020-Concepts.jpg](/media/AT&T-2020-Concepts.jpg.jpg)
+![AT&T-2020-Concepts.jpg](/media/AT&T-2020-Concepts.jpg)
 
 Human beings aren’t perfect. Perfection is something that will always elude us. There will always be a small part of humanity in everything we do. No matter how small that part, we should make sure that it transcends the limits of the medium. We have to think about the message first. 
 

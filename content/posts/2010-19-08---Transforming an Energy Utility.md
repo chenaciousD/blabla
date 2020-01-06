@@ -22,29 +22,26 @@ In 2017, Australia's leading energy utility approached frog to partner on a majo
 
 ## The Process
 
-The frog team was comprised of interaction designers, visual designers, strategists and solution architects collaborating on mutliple streams of work to ensure an engagement that balanced business, design and technology requirements and understanding. My role on the team included:
-
-- Define key customer and prioritization frameworks
+The frog team was comprised of interaction designers, visual designers, strategists and solution architects collaborating on mutliple streams of work to ensure an engagement that balanced business, design and technology requirements. **My role on the team included:**
+- Define customer experience framework
+- Define user and business objective prioritization framework
 - Contribute to interaction and visual design brainstorms and critiques
-- Facilitate key client workshops and activities specifically related to roadmapping and product feature prioritization
+- Define roadmap metrics, value propositions and functional requirements based on design recommendations
+- Facilitate key client workshops and activities 
 - Lead business stakeholder interviews
-- Collaborate with solution architect on roadmap and technical architecture
-
-The team completed several qualitative interviews using design research methods including participatory design.
+- Collaborate with solution architect on roadmap 
 
 <table><tr><td><img src="/media/AGL-Brainstorming-Session.jpg"></td><td><img src="/media/AGL-Workshop-Team.jpg"></td></tr></table>
 
-Alongside customer interviews, frog facilitated several workshops with AGL's internal team to gain alignment around key priorities for the company. This culminated in a two-day workshop that gathered nearly 100 people from across the product team to align on customer initiatives for the next planning cycle.
-
-Alongside customer interviews, frog facilitated several workshops with AGL's internal team to gain alignment around key priorities for the company. This culminated in a two-day workshop that gathered nearly 100 people from across the product team to align on customer initiatives for the next planning cycle.
+Alongside customer interviews, frog facilitated several workshops with AGL's internal team to gain alignment around key priorities for the company. This culminated in a two-day workshop that gathered nearly 70 people from across the product team to align on customer initiatives for the next planning cycle.
 
 ## The Outcome
 
-frog delivered a holistic toolkit of parts that AGL could leverage during implementation. These included a robust and flexible roadmap/framework, a foundational design language system and component library, and set of differentiated signature moments. 
+frog delivered a toolkit of parts that AGL could leverage during implementation - from design to development. These included a robust and flexible roadmap/framework, a foundational design language system and component library, and set of differentiated signature moments. 
 
 ### A Roadmap and Framework for Orienting Around Customer Needs
 
-A key piece of the roadmap was aligning on a customer driven framework to organize the team around. We created a "Customer Events" framework that oriented the entire organization's implementation effort around key customer events and needs.
+A key piece of the roadmap was aligning on a customer driven experience framework to organize the team around. This framework that oriented the entire organization's implementation effort around key customer events and needs:
 
 ![AGL-Customer-Events-Framework.jpg](/media/AGL-Customer-Events-Framework.jpg)
 
@@ -52,11 +49,9 @@ Within each event, we also created a framework of objectives, principles and met
 
 ![AGL-Customer-Event-Detail.jpg](/media/AGL-Customer-Event-Detail.jpg)
 
-Finally, across all of the Customer Events, we aligned on a set of 40 major Customer Initiatives to be impleeted in the next 12 months. Each Customer Initiative was given a tear sheet the described the Initiative at a high level. Implementation teams would then further breakdown the technical, functional requirements to deliver on the Customer Initiative.
+Finally, across all of the Customer Events, we aligned on a set of 40 major Customer Initiatives to be completed in the next 12 months. For each Customer Initiative, we created a Market Requirements Document the described the initiative at a high level. Implementation teams would then further breakdown the technical, functional requirements to deliver on the Customer Initiative's goals.
 
 ![AGL-Customer-Initiative.jpg](/media/AGL-Customer-Initiative.jpg)
-
-The frog and AGL team created this roadmap through several iterations and workshops. Ultimately it served as a framework to organize, align and prioritize effort. 
 
 ### Design Language System and Differentiate Signature Moments
 
@@ -66,10 +61,9 @@ Across all Customer Events, frog conceptualized several differentiated signature
 
 <img src="/media/AGL-Understand-My-Energy.jpg" width="500" />
 
-
-Human beings aren’t perfect. Perfection is something that will always elude us. There will always be a small part of humanity in everything we do. No matter how small that part, we should make sure that it transcends the limits of the medium. We have to think about the message first. 
+One area that emerged during research was the importance of helping customers understand their energy usage and how that impacts their bill. We generated several concepts around better contextualizing energy usage. The core insight was that if people understand their energy usage through greater contextualization and transparency, they will trust their utility more and are also more likely to take action on reducing their energy footprint.
 
 ![AGL-Understand-My-Energy-Detail.jpg](/media/AGL-Understand-My-Energy-Detail.jpg)
 
-Human beings aren’t perfect. Perfection is something that will always elude us. There will always be a small part of humanity in everything we do. No matter how small that part, we should make sure that it transcends the limits of the medium. We have to think about the message first. 
+
 

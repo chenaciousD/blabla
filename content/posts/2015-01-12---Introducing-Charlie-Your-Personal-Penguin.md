@@ -11,7 +11,7 @@ socialImage: "/media/Charlie-Hero-Image.jpg"
 
 <img src="/media/Charlie-Animation.gif" width="700" />
 
-##[The Ask / ](#the-ask) [The Process / ](#the-process) [The Outcome](#the-outcome)
+###[The Ask / ](#the-ask) [The Process / ](#the-process) [The Outcome](#the-outcome)
 
 ## The Ask
 
@@ -53,22 +53,22 @@ We ultimately selected a robotic penguin mascot because of its innate friendly d
 
 The core concept of the marketing landing page of Charlie was to show Charlie in action. As the user scrolls through the page, you see potential scenarios that Charlie can help with - from acting like an investigator to help you reduce your bills to guarding your bank account against extra charges. We gave Charlie a symbolic set of tools to represent all he could do for his customers.
 
-![Charlie Value prop.gif](/media/Charlie-Value-Prop.gif)
+<img src="/media/Charlie-Value-Prop.gif" alt="AGL" width="400"/>
 
 ### A Relationship Designed to Build Trust over Time
 
 Lorem ipsum.
 
-<img src="/media/Charlie-Relationship-Model.jpg" alt="AGL" width="600"/>
+<img src="/media/Charlie-Relationship-Model.jpg" alt="AGL" width="500"/>
 
 ### Sticky Copwriting for Social
 
 Finally, we also delivered a toolkit of social media campaign assets that included visuals and messaging that the company could use for customer acquisition.
 
-![Charlie Social.jpg](/media/Charlie-Social.jpg)
+<img src="/media/Charlie-Social.jpg" alt="AGL" width="400"/>
 
 Start chatting with [Charlie](https://www.hicharlie.co) and ask him for a joke!
 
 Now you can even have your own desktop Charlie!
 
-![Charlie Model.jpg](/media/Charlie-Model.jpg)
+<img src="/media/Charlie-Model.jpg" alt="AGL" width="400"/>

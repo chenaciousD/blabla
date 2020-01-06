@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Daniel Chen',
     photo: '/photo.jpg',
-    bio: 'Daniel Chen is a product & marketing leader (alum of frog design & Stanford GSB). This is a work in progress personal blog showcasing portfolio work, recent experiments, and eventually ... musings at the intersection of finance, design, ethics, technology, and architecture.',
+    bio: 'Daniel Chen is a product & marketing leader (alum of frog design & Stanford GSB). This is a WIP personal blog showcasing portfolio work, recent experiments, and eventually ... musings at the intersection of finance, design, ethics, technology, and architecture.',
     contacts: {
       email: '',
       facebook: '',

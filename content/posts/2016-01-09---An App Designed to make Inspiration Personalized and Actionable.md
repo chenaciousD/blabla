@@ -12,29 +12,30 @@ description: "A trip based on derive. An extended urban environmental exploratio
 socialImage: "/media/Inspo-Hero-Shot.jpg"
 ---
 
-Looking for Dysutopia
+<img src="/media/Inspo-Hero-Shot.jpg" width="900" />
 
-For the month of July, I took six months off to see new ways of life and community formation. 
+###[The Ask / ](#the-ask) [The Process / ](#the-process) [The Outcome](#the-outcome)
 
-Helsinki 
-Tapiola – A failed Utopia, the first in X
-Oodi Library -  A new type of public community center
-Loyli – An experiential sauna
-Affordable Housing in Finland - X
+## The Ask
 
-Copenhagen
-8 House
-Absalon Folkhuset
-Student CPH
-Effekt / Space 10
+**Pellentesque habitant morbi tristique** senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. *Aenean ultricies mi vitae est.* Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. 
 
-Malmo, Sweden
-Bo18
-CykleHuset
+## What are the modes and types of collaboration?
 
+Based on primary qualitative resaerch, we identified 4 collaboration typologies and use cases to frame our opportunities. Each of these collaboration use cases required different types of features and interaction models.
 
-![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/image-2.jpg)
+<img src="/media/Sentons-Collaboration-Use-Cases.jpg" width="500" />
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. 
+We then translated our findings into a opportunity matrix to help frame our brainstorming and positioning.
 
-Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+<img src="/media/Sentons-Use-Case-Framework.jpg" width="400" />
+
+### Concepting for Collaboration
+
+From there, we created 3 conceptual directions, Concierge, Portal and Campfire - each different product directions designed for different collaboration use cases. 
+
+For each concept, we created sample positioning, sample customer types, and key signature features that created differentiation for that particular concept.
+
+<img src="/media/Sentons-Concept-Board.jpg" width="900" />
+
+Based on a down selection process, we identified Portal as the concept to move forward with and further refined/developed the interaction model, signature experiences, and industrial design.
