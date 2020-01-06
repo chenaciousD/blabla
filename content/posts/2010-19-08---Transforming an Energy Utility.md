@@ -33,7 +33,7 @@ The frog team was comprised of interaction designers, visual designers, strategi
 
 <table><tr><td><img src="/media/AGL-Brainstorming-Session.jpg"></td><td><img src="/media/AGL-Workshop-Team.jpg"></td></tr></table>
 
-Alongside customer interviews, frog facilitated several workshops with AGL's internal team to gain alignment around key priorities for the company. This culminated in a two-day workshop that gathered nearly 70 people from across the product team to align on customer initiatives for the next planning cycle.
+Alongside customer interviews, frog facilitated several workshops with AGL's internal team to gain alignment around key priorities for the company. This culminated in a two day workshop that gathered nearly 70 people from across the product team to align on customer initiatives for the next planning cycle.
 
 ## The Outcome
 
@@ -45,21 +45,21 @@ A key piece of the roadmap was aligning on a customer driven experience framewor
 
 ![AGL-Customer-Events-Framework.jpg](/media/AGL-Customer-Events-Framework.jpg)
 
-Within each event, we also created a framework of objectives, principles and metrics. These provided the quantitative and qualititive guidance for teams working on each Customer Event team. 
+Within each event, we also created a framework of objectives, principles and metrics. These provided the quantitative and qualititive guidance for each Customer Even team.
 
 ![AGL-Customer-Event-Detail.jpg](/media/AGL-Customer-Event-Detail.jpg)
 
-Finally, across all of the Customer Events, we aligned on a set of 40 major Customer Initiatives to be completed in the next 12 months. For each Customer Initiative, we created a Market Requirements Document the described the initiative at a high level. Implementation teams would then further breakdown the technical, functional requirements to deliver on the Customer Initiative's goals.
+Finally, across all of the Customer Events, we aligned on a set of 40 major Customer Initiatives to be completed in the next 12 months. For each Customer Initiative, we created a Market Requirements Document that described the initiative at a high level. Implementation teams would then further breakdown the technical, functional requirements to deliver on the Customer Initiative's goals.
 
 ![AGL-Customer-Initiative.jpg](/media/AGL-Customer-Initiative.jpg)
 
 ### Signature Customer Experiences 
 
-Across all Customer Events, frog conceptualized several differentiated signature moments that addressed distinct customer needs that were gathered from primary research. Below is just one example of a signature moment that addressed our need to understand how our energy is used and how the price is calculated.
+Across all Customer Events, frog conceptualized several differentiated signature moments that addressed distinct customer needs synthesized from primary research. Below is just one example of a signature moment that addressed the need for understanding energy usage.
 
 <img src="/media/AGL-Understand-My-Energy.jpg" width="500" />
 
-One area that emerged during research was the importance of helping customers understand their energy usage and how that impacts their bill. We generated several concepts around better contextualizing energy usage. The core insight was that if people understand their energy usage through greater contextualization and transparency, they will trust their utility more and are also more likely to take action on reducing their energy footprint.
+Helping customers understand their energy usage and how that impacts their bill is not only a driver of NPS but also creates significant operational cost/support savings. We generated several concepts around better contextualizing energy usage. We hypothesized that if people understand their energy usage through greater contextualization and transparency, they will trust their utility more and are also more likely to take action on reducing their energy footprint.
 
 ![AGL-Understand-My-Energy-Detail.jpg](/media/AGL-Understand-My-Energy-Detail.jpg)
 
