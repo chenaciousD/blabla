@@ -16,28 +16,30 @@ socialImage: "/media/Sentons-Hero.jpg"
 
 <img src="/media/Sentons-Hero.jpg" width="900" />
 
+###[The Ask / ](#the-ask) [The Process / ](#the-process) [The Outcome](#the-outcome)
+
+## The Ask
+
 **Pellentesque habitant morbi tristique** senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. *Aenean ultricies mi vitae est.* Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. 
 
-Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.  [Donec non enim](#) in turpis pulvinar facilisis.
 
-![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/Sentons-Collaboration-Use-Cases.jpg)
 
-## Header Level 2
+## What are the modes and types of collaboration?
 
-+ Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-+ Aliquam tincidunt mauris eu risus.
+Based on primary qualitative resaerch, we identified 4 collaboration typologies and use cases to frame our opportunities. Each of these collaboration use cases required different types of features and interaction models.
 
-Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. 
+<img src="/media/Sentons-Collaboration-Use-Cases.jpg" width="500" />
+
+We then translated our findings into a opportunity matrix to help frame our brainstorming and positioning.
 
 <img src="/media/Sentons-Use-Case-Framework.jpg" width="400" />
 
-### Header Level 3
+### Concepting for Collaboration
 
-+ Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-+ Aliquam tincidunt mauris eu risus.
+From there, we created 3 conceptual directions, Concierge, Portal and Campfire - each different product directions designed for different collaboration use cases. 
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra.
+For each concept, we created sample positioning, sample customer types, and key signature features that created differentiation for that particular concept.
 
-![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/Sentons-Concept-Board.jpg)
+<img src="/media/Sentons-Concept-Board.jpg" width="900" />
 
-Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
+Based on a down selection process, we identified Portal as the concept to move forward with and further refined/developed the interaction model, signature experiences, and industrial design.

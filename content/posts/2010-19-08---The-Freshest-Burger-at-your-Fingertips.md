@@ -18,14 +18,13 @@ socialImage: "/media/Creator-Mobile-Shot.jpg"
 
 ## The Ask
 
-[Creator](http://creator.rest), an SF based startup disrupting the fast food industry asked frog to design a native iOS mobile ordering and burger customization application that showcased the power of its revolutionary machine. 
+[Creator](http://creator.rest), an SF based startup disrupting the fast food industry asked frog to design a native iOS mobile ordering and burger customization application that showcased the power of its revolutionary machine. (Note: The machine itself was designed by noted automotive designer, Per Selvaag).
 
 ## The Process
 
 The frog team was comprised of interaction designers, visual designers and strategists who collaborated over a period of 10 weeks to design the MVP version of Creator's mobile ordering app. My role on the team included:
-
 - Key client workshop facilitation and alignment meetings
-- Product requirements documentation
+- Product requirements documentation and prioritization
 - Copywriting and content strategy
 - Contribute to interaction model and signature moments
 - Engagement contracting, scoping and investment documentation
@@ -34,7 +33,7 @@ The team started with a full day kick-off workshop to flesh out the key features
 
 <table><tr><td><img src="/media/Creator-Process-Photos.jpg"></td><td><img src="/media/Creator-Prioritization-Photos.jpg"></td></tr></table>
 
-Given the complexity of the machine and its advanced features, we aligned through substantial documentation on what were the technical functionality requirements, user needs, and business objectvies of the application.
+Given the complexity of the machine and its advanced features, we created alignment through substantial documentation on what were the technical functionality requirements, user needs, and business objectvies of the application. This created an efficient process that translate technology and business needs into design requirements.
 
 <img src="/media/Creator-Requirements.jpg" alt="AGL" width="800"/>
 
@@ -53,9 +52,12 @@ Key business objectives were seamless meal creation, burger customization and a 
 
 ## The Outcome
 
-frog designed the core experiences of the MVP mobile application that has since launched with Creator's own burger concierge staff within the restaurant.
+frog designed the core experiences of the MVP mobile application that has since launched and is currently being used by Creator's own burger concierge staff within the restaurant. Every element of the app - from the nav to the persistent smart cart - was designed to maximize user delight and key business goals such as meal creation and burger customization.
 
-<img src="/media/Creator-Animation.gif" alt="AGL" width="200"/>
+<img src="/media/Creator-Animation.gif" width="300"/>>
+
+</table>
+
 
 ### An Interaction Model Tailored for All Burger Lovers
 
@@ -65,13 +67,7 @@ The three tab navigation - profile, featured meal menu, and ala carte menu are d
 
 ### An Innovative Way to Fine Tune your Perfect Burger
 
-For the burger tinkerers, we also created an delightful and fun interaction "filtering" experience that visualizes, real-time, the chnages to their burger. Each ingredient - pattie, cheese, sauces, meltiness - users can toggle, slide, and [ ] their way to their perfect burger profile. (Note: this functionality has not launched yet).
-
-<img src="/media/Creator-Onboarding-Hero.jpg" alt="AGL" width="700"/>
-
-### A Dellightful Onboarding Experience
-
-For the burger tinkerers, we created an innovative interaction that visualizes  ...
+For the burger tinkerers, we also created an delightful and fun interaction "filtering" experience that visualizes, real-time, the chnages to their burger. Each ingredient - pattie, cheese, sauces, meltiness - users can tap, toggle, and slide their way to burger perfection. (Note: this functionality has not launched yet).
 
 <img src="/media/Creator-Onboarding-Hero.jpg" alt="AGL" width="700"/>
 
