@@ -15,32 +15,31 @@ socialImage: "/media/Charlie-Hero-Image.jpg"
 
 ## The Ask
 
-[Charlie Finance](https://www.hicharlie.com), a Series A startup approached frog for an integrated product-brand-marketing engagement for a financial assistant chatbot that users interacted exclusively over text or Facebook messenger.
+[Charlie Finance](https://www.hicharlie.com), a Series A startup approached frog for an integrated product-brand-marketing engagement for a financial assistant chatbot that users interacted exclusively over text and Facebook messenger.
 
 ## The Process
 
-The frog team was comprised of interaction designers, visual designers, and copywriters. **My role included**:
-- Facilitation of key client alignment and reviews
-- Marketing and storytelling narrative for landing page
+The frog team was comprised of interaction designers, visual designers, and copywriters. **My role included:**
 - Engagement scoping, planning, contracting, and investment execution
+- Marketing and storytelling narrative for landing page
 - Brand/character development and origin story
-- Contribute to Interaction model conceptualization and signature moments
-- Contribute to AI relationship model
+- Contribute to Interaction model conceptualization and on-boarding
+- Facilitation of key client alignment and reviews
 - Social media headlines and copywriting 
 
-### An Integrated Product-Brand-Marketing Program
+### Integrating Product, Brand & Marketing to Create a Cohesive Experience
 
-The goal of this program was to create an user experience where brand, product and marketing felt integrated and highly cohesive. During our brand identity discovery phase, the team looked to several areas of inspiration - from animals to robots to abstract chat bubbles:
+During our brand and characater identity discovery phase, the team looked to several areas of inspiration - from animals to robots to abstract chat bubbles:
 
 <img src="/media/Charlie-Inspiration.jpg" alt="AGL" width="600"/>
 
-As part of our divergence process, we created three brand directions that included sample marketing copy, sample visual identities and sample brand strategic directions:
+As part of our exploration process, we created three brand directions that included sample marketing copy,sample visual identities and sample brand strategic directions:
 
 <img src="/media/Charlie-Brand-Directions.jpg" alt="AGL" width="600"/>
 
 ## The Outcome
 
-We ultimately selected a robotic penguin mascot because of its innate friendly demeanor, its loyalty, and intelligence. We also conducted several quantitative A/B tests to assess the penguin's performance relative to other identity/brand strategic directions. 
+We selected a robotic penguin mascot because of its innate friendly demeanor, its loyalty, and intelligence. We tailored the penguin to visually demonstrate its intelligence with several details including its antennae and dot matrix belly. We also conducted several quantitative A/B tests to assess the penguin's performance relative to other identity/brand strategic directions. 
 
 <figure>
 	<blockquote>
@@ -53,13 +52,13 @@ We ultimately selected a robotic penguin mascot because of its innate friendly d
 
 ### Landing on A Day in the Life of Charlie
 
-We designed the Charlie marketing landing page to feel like you were engaging with Charlie the instant the page loaded. As the user scrolls through the page, you see potential scenarios that Charlie can help with - from acting like an investigator to help you reduce your bills to guarding your bank account against extra charges. We gave Charlie a symbolic set of tools to represent all he could do for his customers.
+We designed the Charlie marketing landing page to feel like you were engaging with Charlie the instant the page loaded. As the user scrolls through the page, you see potential scenarios that Charlie can help with - from acting like an investigator to help you reduce your bills to guarding your bank account against extra charges. 
 
 <img src="/media/Charlie-Value-Prop.gif" alt="AGL" width="400"/>
 
-### A Relationship that Evolves 
+### From Financial Assistant to Your Own Personal CFO
 
-As part of our engagement, we also created a interaction framework that showed how Charlie's relationship with users could evolve and grow over time as users began to trust Charlie with more sensitive financial management tasks. We created a criteria of key events and actions that quantified the strength of the relationship and upon reaching certain milestones, Charlie would release new functionality.
+As part of our engagement, we also created a framework that showed how Charlie's relationship with users could evolve and grow over time as users began to trust Charlie with more sensitive financial tasks. We created a criteria of key events and actions that quantified the strength of the relationship and upon reaching certain milestones, Charlie would release new functionality.
 
 <img src="/media/Charlie-Relationship-Model.jpg" alt="AGL" width="700"/>
 <img src="/media/Charlie-Dialogues.jpg" alt="AGL" width="500"/>

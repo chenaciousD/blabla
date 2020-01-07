@@ -9,7 +9,7 @@ tags:
   - "Hardware"
   - "Product Strategy"
   - "Digital Workplace"
-description: "Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat."
+description: "New digital collaboration workplace tool."
 socialImage: "/media/Sentons-Hero.jpg"
 ---
 
@@ -19,25 +19,25 @@ socialImage: "/media/Sentons-Hero.jpg"
 
 ## The Ask
 
-A Series B-funded, touchscreen technology provider asked frog to translate its compelling technology capabilities into a collaboration product for the digital workplace.
+A Series B-funded, touchscreen technology component provider asked frog to translate its compelling technology capabilities into a digital collaboration product for the modern workplace. At the time Microsoft had just launched Surface Hub. Our client's technology had the capability to offer a radically more affordable alternative.
 
 ## What are the modes and types of collaboration?
 
-We started with the questions: how do teams collaborate? what collaboration use cases are most under-served? Based on primary qualitative resaerch, we identified 4 collaboration typologies and use cases to frame our opportunities. Each of these collaboration use cases required different types of features and interaction models.
+We started with two questions: how do teams collaborate? what types of collaboration are most under-served by existing solutions?
+
+We spent time observing teams across organizations of all sizes and types and based on this research, we identified four collaboration typologies and use cases to frame our brainstorming.
 
 <img src="/media/Sentons-Collaboration-Use-Cases.jpg" width="500" />
 
-We then translated our findings into a opportunity matrix to help frame our brainstorming and positioning.
+This opportunity matrix served as a useful frame to pull apart ouf concepts to create distinct concepts that were tailored for specific collaboration use cases.
 
 <img src="/media/Sentons-Use-Case-Framework.jpg" width="400" />
 
 ### Concepting for Collaboration
 
-From there, we created 3 conceptual directions, Concierge, Portal and Campfire - each different product directions designed for different collaboration use cases. 
-
-For each concept, we created sample positioning, sample customer types, and key signature features that created differentiation for that particular concept.
+From there, we created 3 conceptual directions, **Concierge, Portal and Campfire**. For each concept, we created sample positioning, sample customer types, and key signature features that created differentiation for that particular concept. 
 
 <img src="/media/Sentons-Concept-Board.jpg" width="900" />
 
-Based on a down selection process, we identified Portal as the concept to move forward with and further refined/developed the interaction model, signature experiences, and industrial design. The project is still under development.
+Based on a down selection process, we identified Portal as the concept to move forward with and further refined/developed the interaction model, signature experiences, and industrial design. **This project is still under development.**
 

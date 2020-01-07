@@ -24,8 +24,8 @@ In 2018, Australia's leading energy utility approached frog to partner on a majo
 
 The frog team was comprised of interaction designers, visual designers, strategists and solution architects collaborating on mutliple streams of work to ensure an engagement that balanced business, design and technology requirements. **My role on the team included:**
 - Define customer experience framework
-- Define user and business objective prioritization framework
-- Contribute to interaction and visual design brainstorms and critiques
+- Define criteria for user and business prioritization
+- Contribute to interaction and visual design brainstorms and reviews
 - Define roadmap metrics, value propositions and functional requirements based on design recommendations
 - Facilitate key client workshops and activities 
 - Lead business stakeholder interviews
@@ -39,7 +39,7 @@ Alongside customer interviews, frog facilitated several workshops with our clien
 
 frog delivered a toolkit of parts that our client could leverage during implementation - from design to development. These included a robust and flexible roadmap/framework, a foundational design language system and component library, and set of differentiated signature moments. 
 
-### A Roadmap Framework for Orienting Around Customer Needs
+### A Roadmap Oriented around Customer Needs
 
 A key piece of the roadmap was aligning on a customer driven framework to organize the team around. This framework oriented the organization's implementation effort around key customer events and needs:
 

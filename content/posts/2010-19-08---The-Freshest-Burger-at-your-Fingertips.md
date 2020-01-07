@@ -22,7 +22,7 @@ socialImage: "/media/Creator-Mobile-Shot.jpg"
 
 ## The Process
 
-The frog team was comprised of interaction designers, visual designers and strategists who collaborated over a period of 10 weeks to design the MVP version of Creator's mobile ordering app. **My role on the team included**:
+The frog team was comprised of interaction designers, visual designers and strategists who collaborated over a period of 10 weeks to design the MVP version of Creator's mobile ordering app. **My role on the team included:**
 - Key client workshop facilitation and alignment meetings
 - Product requirements documentation and prioritization
 - Copywriting and content strategy
@@ -70,6 +70,6 @@ For the burger tinkerers, we also created an delightful and fun interaction "fil
 
 ### Marketing Freshness, Ingredient Quality and Culinary Creativity
 
-Lastly, our engagement provided marketing asset templates including elements of the landing page including key marketing copy and photography assets of the machine, ingredients and burgers. One core marketing campaign idea was how Creator's machine enabled greater creativity.
+Lastly, our engagement provided marketing asset templates including elements of the landing page with key marketing copy and photography assets of the machine, ingredients and burgers. 
 
 <img src="/media/Creator-Landing-Page.jpg" alt="AGL" width="700"/>
