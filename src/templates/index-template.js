@@ -15,7 +15,9 @@ type Props = {
 };
 
 const divStyle = {
-  backgroundColor: '#effffb'
+  backgroundImage: "url(/media/Background-Cloud.jpg)",
+  backgroundAttachment: "fixed",
+  backgroundPosition: "top"
 };
 
 const IndexTemplate = ({ data, pageContext }: Props) => {
