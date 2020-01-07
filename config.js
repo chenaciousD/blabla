@@ -7,7 +7,7 @@ module.exports = {
   subtitle: 'Hey! I conceptualize, design, and build experiences for consumers and businesses.',
   copyright: '© Images for personal portfolio use only. All work is teamwork, representing the close collaboration of many frogs.',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 6,
   googleAnalyticsId: 'UA-73379983-2',
   useKatex: false,
   menu: [

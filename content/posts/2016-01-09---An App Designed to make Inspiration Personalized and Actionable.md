@@ -1,6 +1,6 @@
 ---
-title: Making Inspiration - Personalized, Curated, Actionable
-date: "2016-09-01T23:46:37.121Z"
+title: Designing & Building a Social Commerce App in Six Months
+date: "2017-09-01T23:46:37.121Z"
 template: "post"
 draft: false
 slug: "making-inspiration-actionable"
@@ -49,10 +49,11 @@ A Highly Curated Channel for Every Creator
 Given the very short timeline, we created a process that maximized design and engineering productivity:
 
 <img src="/media/Inspo-Design-Dev-Process.jpg" width="600" />
+<img src="/media/Inspo-Design-Eng-Tools.jpg" width="600" />
 
-Throuhg multiple workshops and collaborative brainstorms, we arrived an MVP engineering scope of work in Week 5 of the engagement. At frog's studio in SF, we held a daylong prioritization and sizing workshop to estimate the overall body of engineering work to be completed for MVP.
+Through multiple workshops and collaborative brainstorms, we arrived an MVP engineering scope of work in Week 5 of the engagement. At frog's studio in SF, we held a daylong prioritization and sizing workshop to estimate the overall body of engineering work to be completed for MVP.
 
-<img src="/media/Inspo-Design-Eng-Process.jpg" width="600" />
+<img src="/media/Inspo-MVP-Prioritization.jpg" width="600" />
 
 Once we entered the Design-Build sprints, we aligned on a dual track AGILE development, staggered sprint process. To ensure transparency and synchornicitiy between the design and engineering teams, we created two kanban boards so that each team knew what each other were working on. 
 
