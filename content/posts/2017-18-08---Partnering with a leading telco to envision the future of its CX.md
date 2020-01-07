@@ -19,7 +19,7 @@ socialImage: "/media/AT&T-Sigmo.jpg"
 
 ## The Ask
 
-A leading US telco asked frog to envision the company's end to end customer experience for 2020. The telco had recently acquired new media/content assets that increased its competitive advantage, enabling it to offer a full suite of products and content to customers.
+A leading US telco asked frog to envision the company's end to end customer experience for 2020. The telco had recently acquired new media/content assets that increased its competitive advantage, enabling it to offer a richer suite of products and content to customers.
 
 ## The Process
 

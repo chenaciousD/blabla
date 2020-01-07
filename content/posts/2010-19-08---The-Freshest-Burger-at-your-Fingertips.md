@@ -39,7 +39,7 @@ Key **business objectives** included: seamless meal creation, burger customizati
 
 <img src="/media/Creator-Requirements.jpg" alt="AGL" width="700"/>
 
-Part of our design process **behavioral archetypes** included identifying potential user types to orient our interaction model around. 
+Part of our design process included creating **behavioral archetypes to orient the interaction model around** around critical user goals.
 
 <img src="/media/Creator-Archetypes.jpg" alt="AGL" width="600"/>
 

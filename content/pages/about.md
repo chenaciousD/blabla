@@ -16,7 +16,7 @@ I bring quantitative skills, qualitative intuition, and a broad range of multi-d
 From 2014 to 2019, I was a principal at [frog design](https://www.frogdesign.com) where I led design/strategy engagements as well as frog's early stage investing practice in the US. In this role, I maintained frog’s relationships with the entrepreneurship ecosystem, sourced potential startups to invest in, negotiated term sheets with potential startups and co-led projects across product, brand and marketing for portfolio companies. The types of engagements I either led or contributed to include: 
 
 + Customer discovery & design research
-+ Digital product design & agile software development processes
++ Digital product design & agile software development 
 + Brand strategy and brand expression
 + Experience and service design 
 + Go to market strategy, product marketing, messaging

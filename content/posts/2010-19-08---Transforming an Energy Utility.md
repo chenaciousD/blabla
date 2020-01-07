@@ -18,7 +18,7 @@ socialImage: "/media/AGL-Hero-Shot-Grey.jpg"
 
 ## The Ask
 
-In 2017, one of Australia's leading energy utilities approached frog to partner on a major **digital transformation**. With a clear mandate to improve **customer experience and customer retention**,frog's engagement included in depth customer research, concepting, business case/validation, foundational design and a clear roadmap for implementation.
+In 2017, one of Australia's leading energy utilities approached frog to partner on a major **digital transformation**. With a clear mandate to improve **customer experience and customer retention**, frog's engagement included in depth customer research, concepting, business case validation, foundational design and a clear roadmap, process and plan for implementation.
 
 ## The Process
 
@@ -41,11 +41,11 @@ frog delivered a **toolkit of design, strategy and product assets** that our cli
 
 ### A Roadmap & Framework Oriented around Customer Needs
 
-A key piece of the roadmap was aligning on a customer driven framework to organize the team around. This framework oriented the organization's implementation effort around customer needs:
+A key piece of the roadmap was aligning on a customer driven framework to galvanize the client-side produt team around:
 
 ![AGL-Customer-Events-Framework.jpg](/media/AGL-Customer-Events-Framework.jpg)
 
-Within each Event, we also created a structure that of **value propositions, success metrics, long-term vision statements and emotional principles**. These provided the structure for a quantitative and qualititive **Product Northstar** for each team.
+Within each Event, we also created a structure of **value propositions, success metrics, long-term vision statements and emotional principles**. These served as a **Product Northstar** for each team.
 
 ![AGL-Customer-Event-Detail.jpg](/media/AGL-Customer-Event-Detail.jpg)
 
