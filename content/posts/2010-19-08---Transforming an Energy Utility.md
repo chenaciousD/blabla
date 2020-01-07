@@ -1,6 +1,6 @@
 ---
 title: Transforming a Utility into an Consumer Product Leader
-date: "2019-10-19T22:40:32.169Z"
+date: "2019-11-19T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "transforming-an-energy-utility"
