@@ -19,24 +19,51 @@ socialImage: "/media/Inspo-Hero-Shot.jpg"
 
 ## The Ask
 
-**Pellentesque habitant morbi tristique** senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. *Aenean ultricies mi vitae est.* Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. 
+[Inspo](https://insponetwork.com), a Series A startup, approached frog to design and build a new social media lifestyle app tailored for women. Inspo saw an opportunity to create a closer relationship between social media influencers/creators and their fans. frog designed and launched this app to the Appstore in approximately 7 months, leveraging a onshore and offshore design and fullstack engineering resources. 
 
-## What are the modes and types of collaboration?
+## How do we get inspired and motivate action?
 
-Based on primary qualitative resaerch, we identified 4 collaboration typologies and use cases to frame our opportunities. Each of these collaboration use cases required different types of features and interaction models.
+During the first couple of days, we spent time looking at direct competitors and analogous offerings ....
 
-<img src="/media/Sentons-Collaboration-Use-Cases.jpg" width="500" />
+The center of the Inspo experience would revolve around Creator's aggregate channel.
 
-We then translated our findings into a opportunity matrix to help frame our brainstorming and positioning.
+A Highly Curated Channel for Every Creator
+[image of oprah?]
 
-<img src="/media/Sentons-Use-Case-Framework.jpg" width="400" />
+## A Navigation with Multiple Paths to Inspiration
 
-### Concepting for Collaboration
+**Curation**
+*How might we enable consumers to curate their own personal collection of inspiration?*
 
-From there, we created 3 conceptual directions, Concierge, Portal and Campfire - each different product directions designed for different collaboration use cases. 
+**Discovery**
+*How might we design an inviting interface for discovery and serendipity?*
 
-For each concept, we created sample positioning, sample customer types, and key signature features that created differentiation for that particular concept.
+**Access**
+*How might we enable a deeper connection between creator and consumer through direct access?*
 
-<img src="/media/Sentons-Concept-Board.jpg" width="900" />
+**Action**
+*How might we motivate consumers to act on their personal inspiration?*
 
-Based on a down selection process, we identified Portal as the concept to move forward with and further refined/developed the interaction model, signature experiences, and industrial design.
+## Creating an Efficient Design-Engineering Process
+
+Given the very short timeline, we created a process that maximized design and engineering productivity:
+
+<img src="/media/Inspo-Design-Dev-Process.jpg" width="600" />
+
+Throuhg multiple workshops and collaborative brainstorms, we arrived an MVP engineering scope of work in Week 5 of the engagement. At frog's studio in SF, we held a daylong prioritization and sizing workshop to estimate the overall body of engineering work to be completed for MVP.
+
+<img src="/media/Inspo-Design-Eng-Process.jpg" width="600" />
+
+Once we entered the Design-Build sprints, we aligned on a dual track AGILE development, staggered sprint process. To ensure transparency and synchornicitiy between the design and engineering teams, we created two kanban boards so that each team knew what each other were working on. 
+
+<img src="/media/Inspo-Design-Eng-Process.jpg" width="600" />
+
+This ensured that design and engineering time were maximized and there were limited spinning and cycles. There was a strick process through which client feedback was incorporated prior to engineering investment in order to minimize wasting engineering resources.
+
+<img src="/media/Inspo-Design-Eng-Handoff.jpg" width="600" />
+
+We monitored velocity and engineering progress through a bespoke and dynamic Google Sheets velocity tracker.
+
+## The Outcome
+
+Launched in the app store.
