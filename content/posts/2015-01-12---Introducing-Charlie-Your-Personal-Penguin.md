@@ -1,5 +1,5 @@
 ---
-title: Introducing Charlie, Your own Chief Financial (Penguin) Officer
+title: Introducing Charlie, Your Chief Financial (Penguin) Officer
 date: "2018-02-01T22:40:32.169Z"
 template: "post"
 draft: false
