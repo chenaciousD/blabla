@@ -1,10 +1,10 @@
 ---
 title: Introducing Charlie, Your Personal Financial Assistant
-date: "2017-11-01T22:40:32.169Z"
+date: "2018-02-01T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "charlie-financial-advisor"
-category: "Mobile"
+category: "Brand"
 description: "An integrated product-brand-marketing engagement."
 socialImage: "/media/Charlie-Hero-Image.jpg"
 ---

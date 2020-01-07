@@ -1,6 +1,6 @@
 ---
 title: Designing & Building a Social Commerce App in Six Months
-date: "2019-01-01T23:46:37.121Z"
+date: "2019-07-01T23:46:37.121Z"
 template: "post"
 draft: false
 slug: "making-inspiration-actionable"
@@ -26,7 +26,7 @@ The frog team was comprised of interaction designers, visual designers, technica
 - Scoping, contracting and engagement account leadership
 - Product requirements gathering and prioritization
 - Design-Engineering collaboration and process definition and model
-- Contribute to task sequencing, engineering velocity, project management 
+- Contribute to task sequencing and overall project/product management 
 - Contribute to interaction model brainstorming and development
 
 ### Start with Inspiration
