@@ -41,13 +41,13 @@ A key insight from our customer research was the lack of trust between consumers
 
 ### A Framework & Service Principles for Building Trust
 
-We created a framework for building trust with different segments of behavioral archetypes: the Independent, the Control Seeker, the Attention Seekr and Delegator. We synthesized the core painpoints that created this distrust and converted them into feature-oriented opportunity areas for the brand.
+We created a framework for building trust with different segments of behavioral archetypes: the Independent, the Control Seeker, the Attention Seekr and Delegator. We synthesized the core painpoints that created this distrust and converted them into feature-oriented opportunity areas for the brand's product and customer experience.
 
 ![AT&T-Trust-Framework.jpg](/media/AT&T-Trust-Framework.jpg)
 
 ### A Collection of Concepts and Ideas Aligned to Core User Needs
 
-We applied the Trust framework, a Customer Journey (Learn-Buy-Get-Use-Pay-Service) and our archetypes to generate and organize hundreds of concepts and ideas. Below are the concepts organized by Customer Journey and sample archetype:
+We applied the Trust framework, Customer Journey Map (Learn-Buy-Get-Use-Pay-Service) and behavioral archetypes to generate and organize hundreds of concepts and ideas. Below are the concepts organized by Customer Journey and sample archetype:
 
 ![AT&T-2020-Concepts.jpg](/media/AT&T-2020-Concepts.jpg)
 
@@ -55,7 +55,7 @@ We applied the Trust framework, a Customer Journey (Learn-Buy-Get-Use-Pay-Servic
 
 ### Key Signature Moments Brought to Life through Rich Animations
 
-In collaboration with the client, we identified a few high potential ideas that were more easily implementable in the short-term. We brought these to life through animated shorts. The below is one of the final animations that showcases a new personalized, telco bundle selector tool that helps customers find the right services through a highly responsive, friendly interface.
+In collaboration with the client, we selected a few high potential ideas that were more easily implementable in the short-term. We brought these to life through animated shorts. The below is one of the final animations that showcases a new personalized, telco bundle selector tool that helps customers find the right services through a highly responsive, friendly interface.
 
 <img src="/media/AT&T-Animation.gif" width="700" />
 

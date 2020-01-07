@@ -18,11 +18,11 @@ socialImage: "/media/AGL-Hero-Shot-Grey.jpg"
 
 ## The Ask
 
-In 2018, Australia's leading energy utility approached frog to partner on a major digital transformation journey. With a clear mandate to improve customer experience and customer retention,frog's engagement included in depth customer research, concepting, business case/validation, foundational design and a clear roadmap for implementation.
+In 2018, one of Australia's leading energy utilities approached frog to partner on a major digital transformation. With a clear mandate to improve customer experience and customer retention,frog's engagement included in depth customer research, concepting, business case/validation, foundational design and a clear roadmap for implementation.
 
 ## The Process
 
-The frog team was comprised of interaction designers, visual designers, strategists and solution architects collaborating on mutliple streams of work to ensure an engagement that balanced business, design and technology requirements. **My role on the team included:**
+The frog team was comprised of interaction designers, visual designers, strategists and software architects collaborating on mutliple streams of work to ensure an engagement that balanced business, design and technology requirements. **My role on the team included:**
 - Define customer experience framework
 - Define criteria for user and business prioritization
 - Contribute to interaction and visual design brainstorms and reviews
@@ -37,15 +37,15 @@ Alongside customer interviews, frog facilitated several workshops with our clien
 
 ## The Outcome
 
-frog delivered a toolkit of parts that our client could leverage during implementation - from design to development. These included a robust and flexible roadmap/framework, a foundational design language system and component library, and set of differentiated signature moments. 
+frog delivered a toolkit of parts that our client could leverage during implementation - from design to development. These included a flexible roadmap framework, a foundational design language system and component library, and set of differentiated signature moments aligned to customer needs and painpoints synthesized from research.
 
 ### A Roadmap Oriented around Customer Needs
 
-A key piece of the roadmap was aligning on a customer driven framework to organize the team around. This framework oriented the organization's implementation effort around key customer events and needs:
+A key piece of the roadmap was aligning on a customer driven framework to organize the team around. This framework oriented the organization's implementation effort around key customer needs:
 
 ![AGL-Customer-Events-Framework.jpg](/media/AGL-Customer-Events-Framework.jpg)
 
-Within each event, we also created a framework of objectives, principles and metrics. These provided quantitative and qualititive guidance for each Customer Event product team.
+Within each event, we also created a framework of objectives, principles and metrics. These provided quantitative and qualititive guidance for each product team.
 
 ![AGL-Customer-Event-Detail.jpg](/media/AGL-Customer-Event-Detail.jpg)
 
@@ -59,7 +59,7 @@ Across all Customer Events, frog generated several differentiated signature mome
 
 <img src="/media/AGL-Understand-My-Energy.jpg" width="500" />
 
-Helping customers understand their energy usage and how that impacts their bill is not only a driver of NPS but also creates significant operational cost/support savings to the company. We hypothesized that if people understand their energy usage through greater contextualization and transparency, they will trust their utility more and are also more likely to take action on reducing their energy footprint.
+Helping customers understand their energy usage and how that impacts their bill is not only a positive driver of NPS but also creates significant operational cost/support savings to the company. We hypothesized that if people understand their energy usage through greater contextualization and transparency, they will trust their utility more (and are also more likely to take action on reducing their energy footprint).
 
 ![AGL-Understand-My-Energy-Detail.jpg](/media/AGL-Understand-My-Energy-Detail.jpg)
 

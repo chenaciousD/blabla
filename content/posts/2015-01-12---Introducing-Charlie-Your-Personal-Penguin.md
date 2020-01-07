@@ -27,19 +27,19 @@ The frog team was comprised of interaction designers, visual designers, and copy
 - Facilitation of key client alignment and reviews
 - Social media headlines and copywriting 
 
-### Integrating Product, Brand & Marketing to Create a Cohesive Experience
+### Integrating Product, Brand & Marketing for a Cohesive Experience
 
 During our brand and characater identity discovery phase, the team looked to several areas of inspiration - from animals to robots to abstract chat bubbles:
 
 <img src="/media/Charlie-Inspiration.jpg" alt="AGL" width="600"/>
 
-As part of our exploration process, we created three brand directions that included sample marketing copy,sample visual identities and sample brand strategic directions:
+As part of our exploration process, we created three brand directions that included sample marketing copy, visual identities and brand strategic directions:
 
 <img src="/media/Charlie-Brand-Directions.jpg" alt="AGL" width="600"/>
 
 ## The Outcome
 
-We selected a robotic penguin mascot because of its innate friendly demeanor, its loyalty, and intelligence. We tailored the penguin to visually demonstrate its intelligence with several details including its antennae and dot matrix belly. We also conducted several quantitative A/B tests to assess the penguin's performance relative to other identity/brand strategic directions. 
+We selected a robotic penguin mascot because of its innate friendly demeanor, its loyalty, and intelligence. We tailored the penguin to visually demonstrate its intelligence with several details including its delightful antennae and dot matrix belly. We also conducted several quantitative A/B tests to assess the penguin's performance relative to other identity/brand strategic directions. 
 
 <figure>
 	<blockquote>
@@ -50,7 +50,7 @@ We selected a robotic penguin mascot because of its innate friendly demeanor, it
 	</blockquote>
 </figure>
 
-### Landing on A Day in the Life of Charlie
+### Landing on a Day in the Life of Charlie
 
 We designed the Charlie marketing landing page to feel like you were engaging with Charlie the instant the page loaded. As the user scrolls through the page, you see potential scenarios that Charlie can help with - from acting like an investigator to help you reduce your bills to guarding your bank account against extra charges. 
 
@@ -58,14 +58,14 @@ We designed the Charlie marketing landing page to feel like you were engaging wi
 
 ### From Financial Assistant to Your Own Personal CFO
 
-As part of our engagement, we also created a framework that showed how Charlie's relationship with users could evolve and grow over time as users began to trust Charlie with more sensitive financial tasks. We created a criteria of key events and actions that quantified the strength of the relationship and upon reaching certain milestones, Charlie would release new functionality.
+We also created a framework that showed how Charlie's relationship with users could evolve and grow over time as users began to trust Charlie with more sensitive financial tasks. We created criteria of key events and actions that quantified the strength of the relationship and upon reaching certain milestones, Charlie would release new functionality.
 
 <img src="/media/Charlie-Relationship-Model.jpg" alt="AGL" width="700"/>
 <img src="/media/Charlie-Dialogues.jpg" alt="AGL" width="500"/>
 
 ### Customer Acquisition Kit of Parts
 
-Lastly, we delivered a toolkit of social media campaign assets that included visuals and messaging that the company could use for customer acquisition.
+Lastly, we delivered a toolkit of social media campaign assets that included visuals and compelling ad copy/headlines that the company could use for customer acquisition campaigns.
 
 <img src="/media/Charlie-Social-Media.jpg" alt="AGL" width="500"/>
 

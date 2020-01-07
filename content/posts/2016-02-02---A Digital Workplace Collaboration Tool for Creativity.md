@@ -19,23 +19,23 @@ socialImage: "/media/Sentons-Hero.jpg"
 
 ## The Ask
 
-A Series B-funded, touchscreen technology component provider asked frog to translate its compelling technology capabilities into a digital collaboration product for the modern workplace. At the time Microsoft had just launched Surface Hub. Our client's technology had the capability to offer a radically more affordable alternative.
+A Series B-funded, touchscreen technology component provider asked frog to translate its compelling technology capabilities into a digital collaboration product for the modern workplace. At the time Microsoft had just launched Surface Hub. Our client's technology had the potential to offer a radically more affordable alternative with superior touch technology.
 
 ## What are the modes and types of collaboration?
 
 We started with two questions: how do teams collaborate? what types of collaboration are most under-served by existing solutions?
 
-We spent time observing teams across organizations of all sizes and types and based on this research, we identified four collaboration typologies and use cases to frame our brainstorming.
+During research, we spent time observing teams across organizations of all sizes and types and based on this research, we identified four collaboration typologies to frame our brainstorming.
 
 <img src="/media/Sentons-Collaboration-Use-Cases.jpg" width="500" />
 
-This opportunity matrix served as a useful frame to pull apart ouf concepts to create distinct concepts that were tailored for specific collaboration use cases.
+This opportunity matrix helped our team pull apart our concepts and create distinct products that were tailored for specific collaboration typologies.
 
 <img src="/media/Sentons-Use-Case-Framework.jpg" width="400" />
 
 ### Concepting for Collaboration
 
-From there, we created 3 conceptual directions, **Concierge, Portal and Campfire**. For each concept, we created sample positioning, sample customer types, and key signature features that created differentiation for that particular concept. 
+From there, we created 3 conceptual directions, **Concierge, Portal and Campfire**. For each concept, we created sample positioning, customer types, and key signature features that created differentiation for that particular concept. 
 
 <img src="/media/Sentons-Concept-Board.jpg" width="900" />
 

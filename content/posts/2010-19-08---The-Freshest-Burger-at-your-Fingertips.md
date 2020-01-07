@@ -18,7 +18,7 @@ socialImage: "/media/Creator-Mobile-Shot.jpg"
 
 ## The Ask
 
-[Creator](http://creator.rest), an SF-based startup disrupting the fast food industry asked frog to design a mobile ordering and burger customization application that showcased the power of its revolutionary machine. (Note: The machine itself was designed by noted automotive designer, Per Selvaag).
+[Creator](http://creator.rest), an SF-based startup attempting to disrupt the industrialized food system, asked frog to design a mobile ordering and burger customization application that showcased the power of its revolutionary machine. (Note: The machine itself was designed by noted automotive designer, Per Selvaag).
 
 ## The Process
 
@@ -29,11 +29,11 @@ The frog team was comprised of interaction designers, visual designers and strat
 - Contribute to interaction model and signature moments
 - Engagement contracting, scoping and investment documentation 
 
-The team started with a full day kick-off workshop to flesh out the key features and requirements of the mobile experience. We used several frog brainstorming frameworks for this exercise including customer journey mapping, persona mapping, and analogous trendscaping:
+The team started with a full day kick-off workshop to generate the key features and requirements of the mobile experience. We used several frog brainstorming frameworks for this exercise including customer journey mapping and analogous trendscaping:
 
 <table><tr><td><img src="/media/Creator-Process-Photos.jpg"></td><td><img src="/media/Creator-Prioritization-Photos.jpg"></td></tr></table>
 
-Given the complexity of the machine and its advanced features, we created alignment through substantial documentation on the technical functionality requirements, user needs, and business objectvies of the application. This created an efficient process that translated technology and business needs into design requirements.
+Given the complexity of the machine and its advanced features, we created alignment through detailed documentation of the technical functionality of the machine, user needs, and business objectvies of the application. This created an efficient process that translated technology and business needs into design requirements.
 
 <img src="/media/Creator-Requirements.jpg" alt="AGL" width="700"/>
 
@@ -46,30 +46,30 @@ Given the complexity of the machine and its advanced features, we created alignm
 	</blockquote>
 </figure>
 
-Key business objectives were seamless meal creation, burger customization and a content strategy that highlighted some of the distinct flavor profiles of Creator's unique burgers.
+Key business objectives were seamless meal creation, burger customization and taste uniqueness highlighted through a content strategy that illustrated the inspired flavors combinations in Creator's burgers and meals.
 
 <img src="/media/Creator-Archetypes.jpg" alt="AGL" width="600"/>
 
 ## The Outcome
 
-frog designed the core experience of the MVP mobile application that has since launched and is currently being used by Creator's own burger concierge staff within the restaurant. Every element of the app - from the nav to the persistent smart cart - was designed to maximize user delight and deliver key business goals such as seamless meal creation and burger customization.
+frog designed the core experience of the MVP mobile app that has since launched and is currently being used by Creator's own burger concierge staff within the restaurant. Every element of the app - from the navigation to the persistent smart cart - was designed to maximize user delight and deliver key business goals.
 
 <img src="/media/Creator-Animation.gif" width="300"/>
 
 ### An Interaction Model that Delivers on Delight & Business Objectives
 
-The three tab navigation - profile, featured meal menu, and ala carte menu are designed to directly facilitate the needs of our three identified archetypes, the efficiency maximizer, the explorer and the burger tinkerer. This navigation allows for the speediest path to ordering the freshest burger in the fewest number of taps.
+The three tab navigation - profile, featured meal menu, and ala carte menu are designed to directly facilitate the needs of our three identified archetypes, the efficiency maximizer, the explorer and the burger tinkerer. This navigation enabled the speediest path to ordering the freshest burger in the fewest number of taps.
 
 <img src="/media/Creator-Hero-Three-Panel.jpg" alt="AGL" width="700"/>
 
 ### Fine Tune your Perfect Burger
 
-For the burger tinkerers, we also created an delightful and fun interaction "filtering" experience that visualizes, real-time, their personalized burger. Each ingredient - pattie, # of pickles, sauces, meltiness - users can tap, toggle, and slide their way to burger perfection. (Note: this functionality has not launched yet).
+For the burger tinkerers, we also created an delightful and fun interaction "filtering" experience that visualizes, real-time, their personalized burger. For each ingredient - pattie doneness, # of pickles, sauce proportion and allocation, cheese meltiness - users can tap, toggle, and slide their way to burger perfection. (Note: this functionality has not launched yet).
 
 <img src="/media/Creator-Onboarding-Hero.jpg" alt="AGL" width="800"/>
 
 ### Marketing Freshness, Ingredient Quality and Culinary Creativity
 
-Lastly, our engagement provided marketing asset templates including elements of the landing page with key marketing copy and photography assets of the machine, ingredients and burgers. 
+Lastly, our engagement provided marketing asset templates including elements of the landing page with key marketing copy and photography assets of the machine, ingredients and burgers. We also coordinated a two day photo shoot with noted commercial food photographer, [Aubrie Pick](https://aubriepick.com).
 
 <img src="/media/Creator-Landing-Page.jpg" alt="AGL" width="700"/>
