@@ -10,7 +10,7 @@
     padding: 20px;
     border-radius: 1%;
     background-color:$color-primary; 
-    box-shadow: 10px 10px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.3);
   
 
     &:last-child {
@@ -35,7 +35,7 @@
 
         &:hover,
         &:focus {
-          color: $color-base;
+          color:$color-white;
          
         }
 

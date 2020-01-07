@@ -1,5 +1,5 @@
 ---
-title: Transforming a Utility into an Consumer Product Leader
+title: Transforming a Utility through Product & Experience Design
 date: "2019-11-19T22:40:32.169Z"
 template: "post"
 draft: false
