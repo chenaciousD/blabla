@@ -6,7 +6,7 @@ socialImage: "/photo.jpg"
 
 I love learning and trying new things. Currently, I'm working on a few side projects and would love your feedback on them!
 
-## City Futures Salons 
+## Urban Futures Salons 
 In 2019, I began hosting inter-disipinary small group salons in collaboration with [Mat Chow](https://www.linkedin.com/in/mathewchow) at IDEO, [Rebecca Blum](https://www.linkedin.com/in/rebecca-blum-b3800323) at Lyft. These gatherings are designed to instigate conversation around the future of cities through the lens of architecture, mobility, community-building, real estate, design, and culture.
 
 Our most recent salon was held in collaboration with [Enorme Studio](https://enormestudio.es) who presented ideas on how to live in smaller spaces through flexible, movable walls & furniture.
