@@ -11,7 +11,7 @@ socialImage: "/media/Charlie-Hero-Image.jpg"
 
 <img src="/media/Charlie-Animation.gif" width="700" />
 
-###[The Ask / ](#the-ask) [The Process / ](#the-process) [The Outcome](#the-outcome)
+###[The Ask | ](#the-ask) [The Process | ](#the-process) [The Outcome](#the-outcome)
 
 ## The Ask
 
@@ -20,10 +20,10 @@ socialImage: "/media/Charlie-Hero-Image.jpg"
 ## The Process
 
 The frog team was comprised of interaction designers, visual designers, and copywriters. **My role included:**
-- Engagement scoping, planning, contracting, and investment execution
+- Engagement scoping, planning, contracting, and frogVentures investment documentation
 - Marketing and storytelling narrative for landing page
-- Brand/character development and origin story
-- Contribute to Interaction model conceptualization and on-boarding
+- Brand strategy, character and product bible and origin story
+- Contribute to interaction model conceptualization and on-boarding design
 - Facilitation of key client alignment and reviews
 - Social media headlines and copywriting 
 
@@ -39,28 +39,24 @@ As part of our exploration process, we created three brand directions that inclu
 
 ## The Outcome
 
-We selected a robotic penguin mascot because of its innate friendly demeanor, its loyalty, and intelligence. We tailored the penguin to visually demonstrate its intelligence with several details including its delightful antennae and dot matrix belly. We also conducted several quantitative A/B tests to assess the penguin's performance relative to other identity/brand strategic directions. 
-
-<figure>
-	<blockquote>
-		<p>Charlie was designed to be friendly, approachable and super intelligent - just like a penguin!</p>
-		<footer>
-			<cite>The Verge, 2017</cite>
-		</footer>
-	</blockquote>
-</figure>
+We selected a robotic penguin mascot because of its innate friendly demeanor, its loyalty, and intelligence. Through many rounds of iteration, we tailored the penguin to visually demonstrate intelligence with details such as its delightful antennae and dot matrix belly. We also conducted **quantitative A/B tests to assess the penguin's performance** relative to other identity/brand strategic directions. 
 
 ### Landing on a Day in the Life of Charlie
 
-We designed the Charlie marketing landing page to feel like you were engaging with Charlie the instant the page loaded. As the user scrolls through the page, you see potential scenarios that Charlie can help with - from acting like an investigator to help you reduce your bills to guarding your bank account against extra charges. 
+We designed the Charlie marketing landing page to feel like you were engaging with Charlie the instant the page loaded. As the user scrolls through the page, you see **potential value prop scenarios** that Charlie can help with - from acting like an investigator to help you reduce your bills to guarding your bank account against extra charges. 
 
 <img src="/media/Charlie-Value-Prop.gif" alt="AGL" width="400"/>
 
 ### From Financial Assistant to Your Own Personal CFO
 
-We also created a framework that showed how Charlie's relationship with users could evolve and grow over time as users began to trust Charlie with more sensitive financial tasks. We created criteria of key events and actions that quantified the strength of the relationship and upon reaching certain milestones, Charlie would release new functionality.
+We also created a framework that showed how Charlie's relationship with users could evolve and grow over time as users began to trust Charlie with more sensitive financial tasks. We created **criteria of key events and actions that quantified the strength of the relationship** and upon reaching certain milestones, Charlie would reveal new functionality.
 
 <img src="/media/Charlie-Relationship-Model.jpg" alt="AGL" width="700"/>
+
+### From Component Library to Character Bible
+
+Because Charlie's primary product and experience interface was delivered through chat, **we conceptualized a new type of product deliverable, which was called a Character Bible.** This bible included canonical dialogues, verbal/non-verbal response types, modes of behavior, and even a few jokes.
+
 <img src="/media/Charlie-Dialogues.jpg" alt="AGL" width="500"/>
 
 ### Customer Acquisition Kit of Parts

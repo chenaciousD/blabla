@@ -1,65 +1,67 @@
 ---
-title: Transforming an Energy Utility into an Experience Leader
+title: Transforming a Utility into an Consumer Product Leader
 date: "2017-08-19T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "transforming-an-energy-utility"
-category: "Digital Transformation"
+category: "Transformation"
 tags:
   - "Design"
-  - "Concept"
+  - "Future of Energy"
   - "Research"
 description: "Frog was engaged by the CEO, CTO and executive leadership team of Australia’s largest utility to conceptualize, design and roadmap the future of their digital products and overall end to end customer experience."
 socialImage: "/media/AGL-Hero-Shot-Grey.jpg"
 ---
 <img src="/media/AGL-Hero-Shot-Grey.jpg" width="1000" />
 
-###[The Ask / ](#the-ask) [The Process / ](#the-process) [The Outcome](#the-outcome)
+###[The Ask | ](#the-ask) [The Process | ](#the-process) [The Outcome](#the-outcome)
 
 ## The Ask
 
-In 2018, one of Australia's leading energy utilities approached frog to partner on a major digital transformation. With a clear mandate to improve customer experience and customer retention,frog's engagement included in depth customer research, concepting, business case/validation, foundational design and a clear roadmap for implementation.
+In 2017, one of Australia's leading energy utilities approached frog to partner on a major **digital transformation**. With a clear mandate to improve **customer experience and customer retention**,frog's engagement included in depth customer research, concepting, business case/validation, foundational design and a clear roadmap for implementation.
 
 ## The Process
 
-The frog team was comprised of interaction designers, visual designers, strategists and software architects collaborating on mutliple streams of work to ensure an engagement that balanced business, design and technology requirements. **My role on the team included:**
-- Define customer experience framework
-- Define criteria for user and business prioritization
+The frog team was comprised of interaction designers, visual designers, strategists and software architects collaborating on multiple streams of work to ensure an engagement that balanced business, design and technology requirements. **My role on the team included:**
+- Synthesize research into customer experience framework
+- Define criteria for user and business needs prioritization
 - Contribute to interaction and visual design brainstorms and reviews
 - Define roadmap metrics, value propositions and functional requirements based on design recommendations
-- Facilitate key client workshops and activities 
+- Facilitate client workshops with executive leadership and product teams
 - Lead business stakeholder interviews
 - Collaborate with solution architect on roadmap 
 
 <table><tr><td><img src="/media/AGL-Brainstorming-Session.jpg"></td><td><img src="/media/AGL-Workshop-Team.jpg"></td></tr></table>
 
-Alongside customer interviews, frog facilitated several workshops with our client's internal team to gain alignment around key priorities for the company. This culminated in a two day workshop that gathered nearly 100 people from across the product team to align on customer initiatives for the next planning cycle.
+Alongside customer interviews, frog facilitated several workshops with our client's internal team to gain alignment around priorities for the company. This culminated in a two day workshop that gathered nearly 100 people from across the product team to align on customer initiatives for the next planning cycle.
 
 ## The Outcome
 
-frog delivered a toolkit of parts that our client could leverage during implementation - from design to development. These included a flexible roadmap framework, a foundational design language system and component library, and set of differentiated signature moments aligned to customer needs and painpoints synthesized from research.
+frog delivered a **toolkit of design, strategy and product assets** that our client could leverage during implementation. These included a flexible roadmap framework, a foundational design language system and component library, and suite of differentiated signature moments aligned to customer needs and painpoints synthesized from research.
 
-### A Roadmap Oriented around Customer Needs
+### A Roadmap & Framework Oriented around Customer Needs
 
-A key piece of the roadmap was aligning on a customer driven framework to organize the team around. This framework oriented the organization's implementation effort around key customer needs:
+A key piece of the roadmap was aligning on a customer driven framework to organize the team around. This framework oriented the organization's implementation effort around customer needs:
 
 ![AGL-Customer-Events-Framework.jpg](/media/AGL-Customer-Events-Framework.jpg)
 
-Within each event, we also created a framework of objectives, principles and metrics. These provided quantitative and qualititive guidance for each product team.
+Within each Event, we also created a structure that of **value propositions, success metrics, long-term vision statements and emotional principles**. These provided the structure for a quantitative and qualititive **Product Northstar** for each team.
 
 ![AGL-Customer-Event-Detail.jpg](/media/AGL-Customer-Event-Detail.jpg)
 
-Finally, across all of the Customer Events, we aligned on a set of 40 major Customer Initiatives, gathered from customer research and internal workshops, to be completed in the next 12 months. For each Customer Initiative, we created a Market Requirements Document that described the initiative at a high level. Implementation teams would then further breakdown the technical, functional requirements to deliver on the Customer Initiative's goals.
+Finally, across all of the Customer Events, we aligned on a set of 40 major Customer Initiatives, gathered from customer research and internal workshops. For each Customer Initiative, we created a **Market Requirements Document** that described the initiative at a high level. Implementation teams would then further breakdown the technical, functional requirements to deliver on the Customer Initiative's goals.
 
 ![AGL-Customer-Initiative.jpg](/media/AGL-Customer-Initiative.jpg)
 
 ### Signature Customer Experiences 
 
-Across all Customer Events, frog generated several differentiated signature moments that addressed distinct customer needs synthesized from primary research. Below is just one example of a signature moment that addressed the need for understanding energy usage.
+Across all Customer Events, frog generated differentiated signature moments that addressed distinct customer needs synthesized from primary research. Below is just one example of a signature moment that addressed the need for understanding energy usage.
 
 <img src="/media/AGL-Understand-My-Energy.jpg" width="500" />
 
-Helping customers understand their energy usage and how that impacts their bill is not only a positive driver of NPS but also creates significant operational cost/support savings to the company. We hypothesized that if people understand their energy usage through greater contextualization and transparency, they will trust their utility more (and are also more likely to take action on reducing their energy footprint).
+Helping customers understand their energy usage is critical for several reasons: 1) customers are able to comprehend how usage impacts their bill 2) comprehension drives greater trust and NPS for the brand and decreases operating costs for support tickets 3) provides actionable data for consumers to reduce their energy footprint. 
+
+The below visual comps illustrate a few ideas that we generated during our engagement. Panel 1 shows how integrating 3rd party weather data could show the **external environmental impact** on energy usage. Panel 2 helps consumers understand their energy usage over time through **historical use trend charts**. Panel 3 goes a level deeper, showing **daily energy usage insights.**
 
 ![AGL-Understand-My-Energy-Detail.jpg](/media/AGL-Understand-My-Energy-Detail.jpg)
 

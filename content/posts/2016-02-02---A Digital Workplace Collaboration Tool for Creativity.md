@@ -15,7 +15,7 @@ socialImage: "/media/Sentons-Hero.jpg"
 
 <img src="/media/Sentons-Hero.jpg" width="900" />
 
-###[The Ask / ](#the-ask) [The Process / ](#the-process) [The Outcome](#the-outcome)
+###[The Ask | ](#the-ask) [The Process | ](#the-process) [The Outcome](#the-outcome)
 
 ## The Ask
 

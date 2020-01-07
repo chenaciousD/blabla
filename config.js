@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Daniel Chen',
     photo: '/photo.jpg',
-    bio: 'Daniel Chen is a product & marketing leader (alum of frog design & Stanford GSB). This is a work-in-progress, personal blog showcasing portfolio work, recent experiments, and eventually ... musings at the intersection of finance, design, ethics, technology, architecture and cities.',
+    bio: 'Hey! Thanks for visiting my website. This is a work-in-progress, personal blog showcasing project work, recent experiments, and eventually ... musings at the intersection of finance, design, ethics, technology, architecture and cities. This website was built using GatsbyJS, a static site generator based on React.',
     contacts: {
       email: '',
       facebook: '',
