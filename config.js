@@ -21,7 +21,7 @@ module.exports = {
     },
     {
       label: 'Work in Progress',
-      path: '/pages/contacts'
+      path: '/pages/work-in-progress'
     }
   ],
   author: {

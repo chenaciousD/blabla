@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 template: "page"
-socialImage: "/media/image-4.jpg"
+socialImage: "/photo.jpg"
 ---
 
 ##I collaborate on multidisciplinary teams to discover, design and build technology-enabled, people-first products.
@@ -10,16 +10,14 @@ I am a hybrid product and marketing leader based in San Francisco. My profession
 
 I bring quantitative perspective, qualitative intuition, and a broad range of cross-sector, cross-industry experiences to teams. I graduated from Harvard College, magna cum laude, phi beta kappa where I wrote my [economics thesis](/media/Pricing-Dynamics-of-Manhattan.pdf) with [Ed Glaeser](https://en.wikipedia.org/wiki/Edward_Glaeser). Along the way, I also got an MBA at Stanford Graduate School of Business.
 
-<img src="/media/Background-About.jpg" width="100%" class="float-right" />
-
-*A few of my interests & experiences.*
+<img src="/media/About-Background.jpg" width="100%" />
 
 ## Design and Technology
 From 2014 to 2019, I was a principal at [frog design](https://www.frogdesign.com) where I led design/strategy engagements as well as frog's early stage design and investing practice in the US. In this role, I maintained frog’s relationships with the entrepreneurship ecosystem, sourced potential startups to invest in, negotiated term sheets with potential startups and co-led projects across product, brand and marketing for portfolio companies. The types of engagements I either led or contributed to include: 
 
 + Product design & agile development processes
 + Customer Discovery & Design Research
-+ Brand Strategy and Brand Creative Direction/Expression
++ Brand Strategy and Brand Expression
 + Experience/Service Design
 + Go to Market Strategy, Product Marketing, Messaging
 + Workshop Facilitation and Design
@@ -54,6 +52,3 @@ My professional background also includes substantial experience in and a passion
 + Fred Turner, From Counterculture to Cyberculture
 + Bjarke Ingels, Yes is More
 + [ more to come ... ]
-
-### Dystopia and Utopias
-Recently, I embarked on a 15 city tour of Europe to study the future of housing. Look here to read more about this journey.

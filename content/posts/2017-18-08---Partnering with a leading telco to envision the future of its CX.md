@@ -1,5 +1,5 @@
 ---
-title: "Envisioning the Future of Your Telco Customer Experience"
+title: "Envisioning the Future of a Telco Service Experience" 
 date: "2017-08-18T22:12:03.284Z"
 template: "post"
 draft: false

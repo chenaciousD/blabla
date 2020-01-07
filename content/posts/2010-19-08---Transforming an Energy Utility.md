@@ -1,5 +1,5 @@
 ---
-title: Transforming an Energy Utility into a Customer Experience Leader
+title: Transforming an Energy Utility into an Experience Leader
 date: "2017-08-19T22:40:32.169Z"
 template: "post"
 draft: false
