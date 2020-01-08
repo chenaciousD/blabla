@@ -7,24 +7,27 @@ socialImage: "/photo.jpg"
 I love learning and trying new things. Currently, I'm working on a few side projects and would love your feedback on them!
 
 ## Urban Futures Salons 
-In 2019, I began hosting inter-disipinary small group salons in collaboration with [Mat Chow](https://www.linkedin.com/in/mathewchow) at IDEO, [Rebecca Blum](https://www.linkedin.com/in/rebecca-blum-b3800323) at Lyft. These gatherings are designed to instigate conversation around the future of cities through the lens of architecture, mobility, community-building, real estate, design, and culture.
+In 2019, I began hosting inter-disipinary small group salons in collaboration with [Mat Chow](https://www.linkedin.com/in/mathewchow) at IDEO, [Rebecca Blum](https://www.linkedin.com/in/rebecca-blum-b3800323) at Lyft. These gatherings are designed to instigate conversation around the future of cities and living through the lens of architecture, mobility, community-building, real estate, design, and culture.
 
 Our most recent salon was held in collaboration with [Enorme Studio](https://enormestudio.es) who presented ideas on how to live in smaller spaces through flexible, movable walls & furniture.
 
 <img src="/media/Loft-Salon.jpg" width="100%"  />
 
-Reach out if you would like to attend one or if you would like to present your work/idea to like-minded people:
+Reach out if you would like to attend one or if you would like to present your work/ideas to like-minded people:
 
 **Topics of Particular Interest**
-+ Radical property markets and rights (ala [Glenn Weyl](http://radicalmarkets.com/))
++ Radical property markets ([Glenn Weyl](http://radicalmarkets.com/))
 + Cities without cars ([Culdesac](https://culdesac.com/))
 + Flexible spaces ([Ori](https://oriliving.com/))
 + Post-suburbia ([Urban Village Project](https://www.urbanvillageproject.com/))
 + Intergenerational housing ([Fastco Future of Housing](https://www.fastcompany.com/90342219/the-future-of-housing-looks-nothing-like-todays))
-+ New ownership and models for shared housing ([Baugruppen](http://dynamiccities.org/baugruppen))
++ New ownership for shared housing ([Baugruppen](http://dynamiccities.org/baugruppen))
 + Failed Utopias ([Nice Try](https://www.curbed.com/nice-try))
 + The Intersection of Digital & Physical UX 
 + New public spaces and experiences 
++ The Geography of Innovation ([Enrico Moretti](https://www.amazon.com/New-Geography-Jobs-Enrico-Moretti/dp/0544028058))
++ Cybernetics, Counterculture and Cyberculture 
++ Surveillance in the Public Realm 
 
 ## Coding
 
