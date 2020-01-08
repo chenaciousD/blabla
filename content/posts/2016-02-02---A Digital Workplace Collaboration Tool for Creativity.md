@@ -21,7 +21,7 @@ socialImage: "/media/Sentons-Hero.jpg"
 
 A Series B-funded, touchscreen technology component provider asked frog to translate its compelling technology capabilities into a digital collaboration product for the modern workplace. At the time Microsoft had just launched Surface Hub. Our client's technology had the potential to offer a radically more affordable alternative with superior touch technology.
 
-## What are the modes and types of collaboration?
+####  What are the modes and types of collaboration?
 
 We started with two questions: how do teams collaborate? what types of collaboration are most under-served by existing solutions?
 
@@ -33,7 +33,7 @@ This opportunity matrix helped our team pull apart our concepts and create disti
 
 <img src="/media/Sentons-Use-Case-Framework.jpg" width="400" />
 
-### Concepting for Collaboration
+####  Three Concepts for Next Generation Collaboration
 
 From there, we created 3 conceptual directions, **Concierge, Portal and Campfire**. For each concept, we created sample positioning, customer types, and key signature features. 
 

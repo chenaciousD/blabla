@@ -39,13 +39,13 @@ Our participatory design research process included speaking with 25 customers, v
 
 A key insight from our customer research was the **lack of trust between consumers and the telco brand**. Consumers felt that they had a very adverserial relationship with the brand. We delivered a framework to rebuild trust with consumers, a set of experience principles, 80+ differentiated concepts aligned to this framework.
 
-### A Framework & Service Principles for Building Trust
+####  A Framework & Service Principles for Building Trust
 
 We created a framework for building trust with different behavioral segments: the Independent, the Control Seeker, the Attention Seeker and Delegator. We **synthesized core painpoints and converted them into feature-oriented opportunity areas** for the brand's product and customer experience.
 
 ![AT&T-Trust-Framework.jpg](/media/AT&T-Trust-Framework.jpg)
 
-### A Collection of Concepts and Ideas Aligned to Core User Needs
+####  A Collection of Concepts and Ideas Aligned to Core User Needs
 
 We applied the **Trust framework, Customer Journey Map (Learn-Buy-Get-Use-Pay-Service) and behavioral archetypes** to generate and organize hundreds of concepts and ideas. 
 
@@ -53,7 +53,7 @@ We applied the **Trust framework, Customer Journey Map (Learn-Buy-Get-Use-Pay-Se
 
 ![AT&T-2020-Concepts.jpg](/media/AT&T-Archetype.jpg)
 
-### Key Signature Moments Brought to Life through Rich Animations
+#### Key Signature Moments Brought to Life through Rich Animations
 
 In collaboration with the client, we selected a few high potential ideas that were implementable in the short-term. We brought these to life through animated shorts. The below is one of the illustrative animations that showcases a new personalized, package selector tool that helps customers find the right services through a responsive, friendly interface.
 

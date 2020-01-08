@@ -37,7 +37,7 @@ We took particular inspiration from prior generations of influencer media and co
 
 <table><tr><td><img src="/media/Inspo-Oprah.jpg"></td><td><img src="/media/Inspo-QVC.jpg"></td></tr></table>
 
-### Design Opportunities for Inspiration
+####  Design Opportunities for Inspiration
 
 We synthesized our learnings from immersion into a few opportunity areas:
 
@@ -53,7 +53,7 @@ These opportunities served as the foundational user needs that guided the design
 
 <img src="/media/Inspo-Hero-NAV.jpg" width="700" />
 
-### Creating an Efficient Design-Engineering Process
+#### Creating an Efficient Design-Engineering Process
 
 We scoped a phased engagement that maximized design and engineering productivity without sacrificing quality and innovation. **During each phase, we employed a different collaboration model to provide for adequate exploration, client feedback and appropriate level of asset fidelity:**
 
