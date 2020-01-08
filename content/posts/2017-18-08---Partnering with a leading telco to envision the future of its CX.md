@@ -1,5 +1,5 @@
 ---
-title: "Future of Consumer Experience for Leading Telco Provider" 
+title: "Future of Consumer Experience for Leading Telco" 
 date: "2016-08-18T22:12:03.284Z"
 template: "post"
 draft: false

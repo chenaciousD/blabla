@@ -29,7 +29,7 @@ The frog team was comprised of interaction designers, visual designers, a techni
 - Contribute to task sequencing and overall project/product management 
 - Contribute to interaction model brainstorming and development
 
-### Start with Inspiration
+#### Getting Inspired by Oprah
 
 During immersion, the team spent time looking at direct competitors and analogous offerings (e.g., Spotify, Pinterest) to explore different ways consumers find, organize, and act on inspiration.
 
@@ -37,7 +37,7 @@ We took particular inspiration from prior generations of influencer media and co
 
 <table><tr><td><img src="/media/Inspo-Oprah.jpg"></td><td><img src="/media/Inspo-QVC.jpg"></td></tr></table>
 
-####  Design Opportunities for Inspiration
+####  Inspiration Opportunity Areas
 
 We synthesized our learnings from immersion into a few opportunity areas:
 

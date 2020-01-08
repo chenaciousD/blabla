@@ -23,7 +23,7 @@ socialImage: "/media/Creator-Mobile-Shot.jpg"
 ## The Process
 
 The frog team was comprised of interaction designers, visual designers and strategists who collaborated to design the MVP version of Creator's mobile ordering app. **My role on the team included:**
-- Facilitate and lead key client workshops and alignment
+- Facilitation of key client workshops and alignment
 - Gather, document, and prioritize key product requirements
 - Copywriting and content strategy
 - Contribute to interaction model and signature moments
@@ -49,19 +49,19 @@ frog designed the core experience of the MVP mobile app that is currently being 
 
 <img src="/media/Creator-Animation.gif" width="300"/>
 
-### An Interaction Model Delivers on Delight & Business Objectives
+#### Creating an Interaction Model that delivers on User Delight and Business Objectives
 
 The three tab navigation - profile, featured meal menu, and ala carte menu are designed to directly facilitate the needs of our three  archetypes: the efficiency maximizer, the explorer and the burger tinkerer. 
 
 <img src="/media/Creator-Hero-Three-Panel.jpg" alt="AGL" width="700"/>
 
-### Filter your Way to the Perfect Burger
+####  Filter your Way to the Perfect Burger
 
 For the burger tinkerers, we also created a tactile interaction "filtering" experience that visualizes, real-time, their personalized burger. For every burger element from pattie doneness to # of pickles to sauce proportion - users can tap, toggle, and slide their way to burger perfection. 
 
 <img src="/media/Creator-Onboarding-Hero.jpg" alt="AGL" width="800"/>
 
-### Marketing Freshness, Ingredient Quality and Culinary Creativity
+####  Marketing Freshness, Ingredient Quality and Culinary Creativity
 
 Lastly, we delivered a set of marketing templates including the landing page with key marketing copy and photography assets of the machine, ingredients and burgers. We also produced a two day photo shoot with noted commercial food photographer, [Aubrie Pick](https://aubriepick.com).
 

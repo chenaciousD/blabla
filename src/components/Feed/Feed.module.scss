@@ -119,6 +119,12 @@
   
   .feed__item-image {
     border-radius: 5%;
-    max-height: 159px;
+    max-height: 138px;
+  }
+}
+
+@include breakpoint-lg {
+  .feed__item-image {
+  max-height: 159px;
   }
 }

@@ -1,5 +1,5 @@
 ---
-title: Digital Transformation for Australia's Leading Energy Utility
+title: Digital Transformation for a Leading Utility
 date: "2019-11-19T22:40:32.169Z"
 template: "post"
 draft: false
@@ -38,7 +38,7 @@ frog facilitated several workshops with our client's internal team to gain align
 
 frog delivered a **toolkit of design, strategy and product assets** that our client could leverage during implementation. 
 
-### A Roadmap & Framework Oriented around Customer Needs
+####  A Roadmap & Framework Oriented around Customer Needs
 
 A key piece of the roadmap was aligning on a customer driven framework to galvanize the client-side produt team around:
 
@@ -52,9 +52,9 @@ Finally, across all of the Customer Events, we aligned on a set of 40 major Cust
 
 ![AGL-Customer-Initiative.jpg](/media/AGL-Customer-Initiative.jpg)
 
-### Signature Customer Experiences 
+####  Signature Customer Experiences 
 
-Across all Customer Events, frog generated differentiated signature moments that addressed distinct customer needs synthesized from primary research. Below is just one example of a signature moment that addressed the need for understanding energy usage.
+Across all Customer Events, frog generated differentiated signature moments that addressed distinct customer needs synthesized from primary research. Below is one example of a signature moment that addressed the need for understanding energy usage.
 
 <img src="/media/AGL-Understand-My-Energy.jpg" width="500" />
 
