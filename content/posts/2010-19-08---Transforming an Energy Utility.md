@@ -23,11 +23,11 @@ In 2017, one of Australia's leading energy utilities approached frog to partner 
 ## The Process
 
 The frog team was comprised of interaction designers, visual designers, strategists and software architects collaborating on multiple streams of work to ensure balanced perspectives from design, business and technology. **My role on the team included:**
-- Synthesize research into customer experience framework
-- Define criteria for user and business needs prioritization
-- Contribute to interaction and visual design brainstorms and reviews
+- Customer experience framework and research synthesis
+- User and business needs prioritization framework
 - Define roadmap metrics, value propositions and functional requirements 
-- Facilitate client workshops with executive leadership and product teams
+- Contribute to interaction and visual design brainstorms and reviews
+- Facilitation of client workshops with executive leadership and product teams
 - Collaborate with solution architect on implementation and technical roadmap 
 
 <table><tr><td><img src="/media/AGL-Brainstorming-Session.jpg"></td><td><img src="/media/AGL-Workshop-Team.jpg"></td></tr></table>
@@ -60,9 +60,11 @@ Across all Customer Events, frog generated differentiated signature moments that
 
 Helping customers understand their energy usage is critical for several reasons: 1) customers are able to comprehend how usage impacts their bill 2) comprehension drives greater trust and NPS for the brand and decreases operating costs for support tickets 3) provides actionable data for consumers to reduce their energy footprint. 
 
-The below visual comps illustrate a few ideas that we generated during our engagement. Panel 1 shows how integrating 3rd party weather data could show the **external environmental impact** on energy usage. Panel 2 helps consumers understand their energy usage over time through **historical usage visualizations**. Panel 3 goes a level deeper, showing **daily energy usage insights.**
-
 ![AGL-Understand-My-Energy-Detail.jpg](/media/AGL-Understand-My-Energy-Detail.jpg)
+
+The above visual comps illustrate a few ideas that we generated during our engagement. Panel 1 shows how integrating 3rd party weather data could show the **external environmental impact** on energy usage. Panel 2 helps consumers understand their energy usage over time through **historical usage visualizations**. Panel 3 goes a level deeper, showing **daily energy usage insights.**
+
+
 
 
 

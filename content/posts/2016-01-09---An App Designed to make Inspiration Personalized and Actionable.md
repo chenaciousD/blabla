@@ -45,7 +45,7 @@ We synthesized our learnings from immersion into a few opportunity areas:
 
 **Discovery** - *How might we design an inspiring experience for discovery and serendipity?*
 
-**Direct Connection** - *How might we enable a deeper connection between creators and consumers?*
+**Connection** - *How might we enable a deeper connection between creators and consumers?*
 
 **Action** - *How might we motivate consumers to act on their inspiration?*
 
