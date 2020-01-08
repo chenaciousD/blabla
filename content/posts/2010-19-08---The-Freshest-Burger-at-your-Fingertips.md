@@ -57,12 +57,12 @@ The three tab navigation - profile, featured meal menu, and ala carte menu are d
 
 ####  Filter your Way to the Perfect Burger
 
-For the burger tinkerers, we also created a tactile interaction "filtering" experience that visualizes, real-time, their personalized burger. For every burger element from pattie doneness to # of pickles to sauce proportion - users can tap, toggle, and slide their way to burger perfection. 
+For the burger tinkerers, we also created a tactile interaction "filtering" experience that visualizes, real-time, their personalized burger. **For every burger element from pattie doneness to # of pickles to sauce proportion - users can tap, toggle, and slide their way to burger perfection.**
 
 <img src="/media/Creator-Onboarding-Hero.jpg" alt="AGL" width="800"/>
 
 ####  Marketing Freshness, Ingredient Quality and Culinary Creativity
 
-Lastly, we delivered a set of marketing templates including the landing page with marketing copy and photography assets of the machine, ingredients and burgers. We also produced a two day photo shoot with noted commercial food photographer, [Aubrie Pick](https://aubriepick.com).
+Lastly, we delivered a set of marketing templates including the landing page with marketing copy and images of the machine, ingredients and burgers which were produced during a two day photo shoot with noted commercial food photographer, [Aubrie Pick](https://aubriepick.com).
 
 <img src="/media/Creator-Landing-Page.jpg" alt="AGL" width="700"/>

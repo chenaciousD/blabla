@@ -26,13 +26,13 @@
           color: $color-primary;
           
           color: $color-white;
-          background-color: $color-primary;
+          background-color: $color-base;
         }
 
         &--active {
           color: $color-base;
           
-          background-color: $color-primary;
+          background-color: $color-base;
           color: $color-white;
           
         }

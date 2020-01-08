@@ -55,7 +55,7 @@ These foundational user needs guided the design of the interaction model and nav
 
 #### Creating an Efficient Design-Engineering Process
 
-We scoped a phased engagement that maximized design and engineering productivity without sacrificing quality and innovation. **During each phase, we employed a different collaboration model to provide for adequate exploration, client feedback and appropriate level of asset fidelity:**
+The tight timeline required a phased engagement that maximized design and engineering productivity without sacrificing quality and innovation. **During each phase, we employed a different collaboration model and design process to provide for adequate exploration, client feedback and appropriate level of asset fidelity:**
 
 <img src="/media/Inspo-Design-Dev-Process.jpg" width="600" />
 
@@ -65,7 +65,7 @@ The team conducted a full day workshop to **estimate, size and define** over 100
 
 <img src="/media/Inspo-MVP-Prioritization.jpg" width="600" />
 
-Once we entered the Design-Build sprints, we aligned on staggered design-engineering sprint process.
+Once we entered the Design-Build phase, we aligned on a staggered design-engineering sprint process.
 
 **Staggered Design-Build Process**
 <img src="/media/Inspo-Design-Eng-Process.jpg" width="600" />
