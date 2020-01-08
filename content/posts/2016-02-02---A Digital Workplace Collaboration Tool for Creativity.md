@@ -35,7 +35,7 @@ This opportunity matrix helped our team pull apart our concepts and create disti
 
 ####  Three Concepts for Next Generation Collaboration
 
-From there, we created 3 conceptual directions, **Concierge, Portal and Campfire**. For each concept, we created sample positioning, customer types, and key signature features. 
+From there, we created three conceptual directions, **Concierge, Portal and Campfire**. For each concept, we created sample positioning, customer types, and key signature features. 
 
 <img src="/media/Sentons-Concept-Board.jpg" width="900" />
 

@@ -33,13 +33,13 @@ The team started with a full day kick-off workshop to generate the key features 
 
 <table><tr><td><img src="/media/Creator-Process-Photos.jpg"></td><td><img src="/media/Creator-Prioritization-Photos.jpg"></td></tr></table>
 
-Given the complexity of the machine, it was important that we create alignment through detailed documentation of the technical functionality of the machine, user needs, and business objectvies of the application. This created an efficient process that translated technology and business needs into design requirements. 
+Given the complexity of the machine, it was important that we create alignment through detailed documentation of the technical functionality of the machine, user needs, and business objectvies of the application. 
 
 Key **business objectives** included: seamless meal creation, burger customization and elevating taste uniqueness through a flavor-forward content and menu strategy.
 
 <img src="/media/Creator-Requirements.jpg" alt="AGL" width="700"/>
 
-Part of our design process also included creating **behavioral archetypes to orient the interaction model around** around critical user goals.
+Part of our design process also included creating **behavioral archetypes to orient the interaction model around**.
 
 <img src="/media/Creator-Archetypes.jpg" alt="AGL" width="600"/>
 
@@ -51,7 +51,7 @@ frog designed the core experience of the MVP mobile app that is currently being 
 
 #### Creating an Interaction Model that delivers on User Delight and Business Objectives
 
-The three tab navigation - profile, featured meal menu, and ala carte menu are designed to directly facilitate the needs of our three  archetypes: the efficiency maximizer, the explorer and the burger tinkerer. 
+The three tab navigation - profile, featured meal menu, and ala carte menu are designed to directly facilitate the needs of our three archetypes: the efficiency maximizer, the explorer and the burger tinkerer. 
 
 <img src="/media/Creator-Hero-Three-Panel.jpg" alt="AGL" width="700"/>
 
@@ -63,6 +63,6 @@ For the burger tinkerers, we also created a tactile interaction "filtering" expe
 
 ####  Marketing Freshness, Ingredient Quality and Culinary Creativity
 
-Lastly, we delivered a set of marketing templates including the landing page with key marketing copy and photography assets of the machine, ingredients and burgers. We also produced a two day photo shoot with noted commercial food photographer, [Aubrie Pick](https://aubriepick.com).
+Lastly, we delivered a set of marketing templates including the landing page with marketing copy and photography assets of the machine, ingredients and burgers. We also produced a two day photo shoot with noted commercial food photographer, [Aubrie Pick](https://aubriepick.com).
 
 <img src="/media/Creator-Landing-Page.jpg" alt="AGL" width="700"/>

@@ -15,7 +15,7 @@ socialImage: "/media/Charlie-Hero-Image.jpg"
 
 ## The Ask
 
-[Charlie Finance](https://www.hicharlie.com), a Series A startup approached frog for an integrated product-brand-marketing engagement for a financial assistant chatbot that users interacted exclusively over text.
+[Charlie Finance](https://www.hicharlie.com), a Series A fintech startup approached frog to help integrate product, brand, and marketing for a financial assistant chatbot that users interacted exclusively over text.
 
 ## The Process
 

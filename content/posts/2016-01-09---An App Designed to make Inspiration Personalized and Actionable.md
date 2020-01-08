@@ -18,7 +18,7 @@ socialImage: "/media/Inspo-Hero-Shot.jpg"
 
 ## The Ask
 
-[Inspo](https://insponetwork.com), a Series A startup, approached frog to design and build a new social media lifestyle app tailored for women. Inspo saw an opportunity to create a closer relationship between social media influencers/creators and their fans. frog designed and launched this app to the Appstore in approximately six months.
+[Inspo](https://insponetwork.com), a Series A startup, approached frog to design and build a new social media lifestyle app tailored to women. Inspo saw an opportunity to create a closer relationship between social media influencers and their fans. frog designed and launched this app to the Appstore in approximately six months.
 
 ## The Process
 
@@ -49,7 +49,7 @@ We synthesized our learnings from immersion into a few opportunity areas:
 
 **Action** - *How might we motivate consumers to act on their inspiration?*
 
-These opportunities served as the foundational user needs that guided the design of the interaction model and navigation.
+These foundational user needs guided the design of the interaction model and navigation.
 
 <img src="/media/Inspo-Hero-NAV.jpg" width="700" />
 

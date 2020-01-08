@@ -40,7 +40,7 @@ A key insight from our customer research was the **lack of trust between consume
 
 ####  A Framework & Service Principles for Building Trust
 
-We created a framework for building trust with different behavioral segments: the Independent, the Control Seeker, the Attention Seeker and Delegator. We **synthesized core painpoints and converted them into feature-oriented opportunity areas** for the brand's product and customer experience.
+We created a framework for building trust with different behavioral segments: the Independent, the Control Seeker, the Attention Seeker and Delegator. We **synthesized core painpoints and converted them into feature-rich opportunity areas** for the brand's product and customer experience.
 
 ![AT&T-Trust-Framework.jpg](/media/AT&T-Trust-Framework.jpg)
 
