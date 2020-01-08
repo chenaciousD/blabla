@@ -25,20 +25,19 @@ A leading US telco asked frog to envision the company's end to end customer expe
 
 The frog team was comprised of interaction designers, visual designers, and strategists. **My role on the team included:**
 - Lead customer research and synthesis of findings
-- Generate customer journey framework 
 - Generate brainstorming and ideation framework for new product/experience features
 - Business case validation for new concepts
 - Contribute to concepting and articulation of signature moments
 - Narrative creation and storyboarding for animated shorts
 - Lead client workshops and brainstorming sessions
 
-Our participatory design research process included speaking with 25 customers, visiting their homes to understand their painpoints and needs. We created several activites to help surface open conversation during our interviews. One activity included showing customers analogous experiences and asking them to draw parallels to their own experience.
+Our participatory design research process included speaking with 25 customers, visiting their homes to understand their painpoints and needs. We created several activites to help surface open conversation during our interviews. 
 
 <img src="/media/AT&T-Research.jpg" alt="AGL" width="600"/>
 
 ## The Outcome
 
-A key insight from our customer research was the **lack of trust between consumers and the telco brand**. Consumers felt that they had a very adverserial relationship with the brand. We delivered a framework to rebuild trust with consumers, a set of experience principles, 80+ differentiated concepts and ideas aligned to this framework, and brought to life two high potential experiences through animated graphics with voiceovers (see below for example).
+A key insight from our customer research was the **lack of trust between consumers and the telco brand**. Consumers felt that they had a very adverserial relationship with the brand. We delivered a framework to rebuild trust with consumers, a set of experience principles, 80+ differentiated concepts aligned to this framework.
 
 ### A Framework & Service Principles for Building Trust
 
@@ -48,7 +47,7 @@ We created a framework for building trust with different behavioral segments: th
 
 ### A Collection of Concepts and Ideas Aligned to Core User Needs
 
-We applied the **Trust framework, Customer Journey Map (Learn-Buy-Get-Use-Pay-Service) and behavioral archetypes** to generate and organize hundreds of concepts and ideas. Below are the concepts organized by Customer Journey and archetype:
+We applied the **Trust framework, Customer Journey Map (Learn-Buy-Get-Use-Pay-Service) and behavioral archetypes** to generate and organize hundreds of concepts and ideas. 
 
 ![AT&T-2020-Concepts.jpg](/media/AT&T-2020-Concepts.jpg)
 
@@ -56,7 +55,7 @@ We applied the **Trust framework, Customer Journey Map (Learn-Buy-Get-Use-Pay-Se
 
 ### Key Signature Moments Brought to Life through Rich Animations
 
-In collaboration with the client, we selected a few high potential ideas that were implementable in the short-term. We brought these to life through animated shorts. The below is one of the illustrative animations that showcases a new personalized, package selector tool that helps customers find the right services through a highly responsive, friendly interface.
+In collaboration with the client, we selected a few high potential ideas that were implementable in the short-term. We brought these to life through animated shorts. The below is one of the illustrative animations that showcases a new personalized, package selector tool that helps customers find the right services through a responsive, friendly interface.
 
 <img src="/media/AT&T-Animation.gif" width="700" />
 

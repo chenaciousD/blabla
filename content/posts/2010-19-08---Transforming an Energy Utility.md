@@ -18,26 +18,25 @@ socialImage: "/media/AGL-Hero-Shot-Grey.jpg"
 
 ## The Ask
 
-In 2017, one of Australia's leading energy utilities approached frog to partner on a major **digital transformation**. With a clear mandate to improve **customer experience and customer retention**, frog's engagement included in depth customer research, concepting, business case validation, foundational design and a clear roadmap, process and plan for implementation.
+In 2017, one of Australia's leading energy utilities approached frog to partner on a major **digital transformation**. With a clear mandate to improve **customer experience and retention**, frog's engagement included in depth customer research, concepting, business case validation, foundational design and a clear roadmap and process for implementation.
 
 ## The Process
 
-The frog team was comprised of interaction designers, visual designers, strategists and software architects collaborating on multiple streams of work to ensure an engagement that balanced business, design and technology requirements. **My role on the team included:**
+The frog team was comprised of interaction designers, visual designers, strategists and software architects collaborating on multiple streams of work to ensure balanced perspectives from design, business and technology. **My role on the team included:**
 - Synthesize research into customer experience framework
 - Define criteria for user and business needs prioritization
 - Contribute to interaction and visual design brainstorms and reviews
-- Define roadmap metrics, value propositions and functional requirements based on design recommendations
+- Define roadmap metrics, value propositions and functional requirements 
 - Facilitate client workshops with executive leadership and product teams
-- Lead business stakeholder interviews
-- Collaborate with solution architect on roadmap 
+- Collaborate with solution architect on implementation and technical roadmap 
 
 <table><tr><td><img src="/media/AGL-Brainstorming-Session.jpg"></td><td><img src="/media/AGL-Workshop-Team.jpg"></td></tr></table>
 
-Alongside customer interviews, frog facilitated several workshops with our client's internal team to gain alignment around priorities for the company. This culminated in a two day workshop that gathered nearly 100 people from across the product team to align on customer initiatives for the next planning cycle.
+frog facilitated several workshops with our client's internal team to gain alignment around priorities for the company. This culminated in a two day workshop that gathered nearly 100 people from across the product team to align on customer initiatives for the next planning cycle.
 
 ## The Outcome
 
-frog delivered a **toolkit of design, strategy and product assets** that our client could leverage during implementation. These included a flexible roadmap framework, a foundational design language system and component library, and suite of differentiated signature moments aligned to customer needs and painpoints synthesized from research.
+frog delivered a **toolkit of design, strategy and product assets** that our client could leverage during implementation. 
 
 ### A Roadmap & Framework Oriented around Customer Needs
 
@@ -45,11 +44,11 @@ A key piece of the roadmap was aligning on a customer driven framework to galvan
 
 ![AGL-Customer-Events-Framework.jpg](/media/AGL-Customer-Events-Framework.jpg)
 
-Within each Event, we also created a structure of **value propositions, success metrics, long-term vision statements and emotional principles**. These served as a **Product Northstar** for each team.
+Within each Event, we created a structure of **value propositions, success metrics, long-term vision statements and emotional principles**. These served as a **Product Northstar** for each team.
 
 ![AGL-Customer-Event-Detail.jpg](/media/AGL-Customer-Event-Detail.jpg)
 
-Finally, across all of the Customer Events, we aligned on a set of 40 major Customer Initiatives, gathered from customer research and internal workshops. For each Customer Initiative, we created a **Market Requirements Document** that described the initiative at a high level. Implementation teams would then further breakdown the technical, functional requirements to deliver on the Customer Initiative's goals.
+Finally, across all of the Customer Events, we aligned on a set of 40 major Customer Initiatives, gathered from customer research and internal workshops. For each Customer Initiative, we created a **Market Requirements Document** that described the initiative at a high level. Implementation teams would then further breakdown the technical requirements to deliver on the Initiative's goals.
 
 ![AGL-Customer-Initiative.jpg](/media/AGL-Customer-Initiative.jpg)
 
@@ -61,7 +60,7 @@ Across all Customer Events, frog generated differentiated signature moments that
 
 Helping customers understand their energy usage is critical for several reasons: 1) customers are able to comprehend how usage impacts their bill 2) comprehension drives greater trust and NPS for the brand and decreases operating costs for support tickets 3) provides actionable data for consumers to reduce their energy footprint. 
 
-The below visual comps illustrate a few ideas that we generated during our engagement. Panel 1 shows how integrating 3rd party weather data could show the **external environmental impact** on energy usage. Panel 2 helps consumers understand their energy usage over time through **historical use trend charts**. Panel 3 goes a level deeper, showing **daily energy usage insights.**
+The below visual comps illustrate a few ideas that we generated during our engagement. Panel 1 shows how integrating 3rd party weather data could show the **external environmental impact** on energy usage. Panel 2 helps consumers understand their energy usage over time through **historical usage visualizations**. Panel 3 goes a level deeper, showing **daily energy usage insights.**
 
 ![AGL-Understand-My-Energy-Detail.jpg](/media/AGL-Understand-My-Energy-Detail.jpg)
 

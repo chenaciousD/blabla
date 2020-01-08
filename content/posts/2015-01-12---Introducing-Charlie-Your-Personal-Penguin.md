@@ -15,7 +15,7 @@ socialImage: "/media/Charlie-Hero-Image.jpg"
 
 ## The Ask
 
-[Charlie Finance](https://www.hicharlie.com), a Series A startup approached frog for an integrated product-brand-marketing engagement for a financial assistant chatbot that users interacted exclusively over text and Facebook messenger.
+[Charlie Finance](https://www.hicharlie.com), a Series A startup approached frog for an integrated product-brand-marketing engagement for a financial assistant chatbot that users interacted exclusively over text.
 
 ## The Process
 
@@ -29,7 +29,7 @@ The frog team was comprised of interaction designers, visual designers, and copy
 
 ### Integrating Product, Brand & Marketing for a Cohesive Experience
 
-During our brand and characater identity discovery phase, the team looked to several areas of inspiration - from animals to robots to abstract chat bubbles:
+During our brand/character discovery phase, the team looked to several areas of inspiration - from animals to robots to abstract chat bubbles:
 
 <img src="/media/Charlie-Inspiration.jpg" alt="AGL" width="600"/>
 
@@ -43,19 +43,19 @@ We selected a robotic penguin mascot because of its innate friendly demeanor, it
 
 ### Landing on a Day in the Life of Charlie
 
-We designed the Charlie marketing landing page to feel like you were engaging with Charlie the instant the page loaded. As the user scrolls through the page, you see **potential value prop scenarios** that Charlie can help with - from acting like an investigator to help you reduce your bills to guarding your bank account against extra charges. 
+We designed the Charlie marketing landing page to feel like you were engaging with Charlie the instant the page loaded. As the user scrolls through the page, you see **potential value prop scenarios** that Charlie can help with - from helping you reduce your bills to guarding your bank account against extra charges. 
 
 <img src="/media/Charlie-Value-Prop.gif" alt="AGL" width="400"/>
 
 ### From Financial Assistant to Your Own Personal CFO
 
-We also created a framework that showed how Charlie's relationship with users could evolve and grow over time as users began to trust Charlie with more sensitive financial tasks. We created **criteria of key events and actions that quantified the strength of the relationship** and upon reaching certain milestones, Charlie would reveal new functionality.
+We also created a framework that showed how Charlie's relationship with users could evolve and grow over time as users trusted Charlie with more sensitive financial tasks. We created **criteria to quantify key events and actions that suggested the strength of the relationship.** Upon reaching certain milestones, Charlie would reveal new functionality.
 
 <img src="/media/Charlie-Relationship-Model.jpg" alt="AGL" width="700"/>
 
 ### From Component Library to Character Bible
 
-Because Charlie's primary product and experience interface was delivered through chat, **we conceptualized a new type of product deliverable, which was called a Character Bible.** This bible included canonical dialogues, verbal/non-verbal response types, modes of behavior, and even a few jokes.
+Because Charlie's primary product and experience interface was delivered through chat, **we conceptualized a new type of product deliverable, a Character Bible.** This bible included canonical dialogues, verbal/non-verbal response types, modes of behavior, and even a few jokes.
 
 <img src="/media/Charlie-Dialogues.jpg" alt="AGL" width="500"/>
 
@@ -64,5 +64,3 @@ Because Charlie's primary product and experience interface was delivered through
 Lastly, we delivered a toolkit of social media campaign assets that included visuals and compelling ad copy/headlines that the company could use for customer acquisition campaigns.
 
 <img src="/media/Charlie-Social-Media.jpg" alt="AGL" width="500"/>
-
-Start chatting with [Charlie](https://www.hicharlie.co) and ask him for a joke!

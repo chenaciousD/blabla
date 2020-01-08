@@ -15,7 +15,7 @@ type Props = {
 };
 
 const divStyle = {
-  backgroundColor: '#effffb'
+  backgroundColor: '##F8F8F8'
 };
 
 const IndexTemplate = ({ data, pageContext }: Props) => {

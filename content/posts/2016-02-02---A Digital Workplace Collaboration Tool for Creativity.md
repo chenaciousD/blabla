@@ -1,6 +1,6 @@
 ---
 title: "A Digital Whiteboard for Creative Collaboration"
-date: "2016-02-02T22:40:32.169Z"
+date: "2014-02-02T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "digital-whiteboard-collaboration"
@@ -29,13 +29,13 @@ During research, we spent time observing teams across organizations of all sizes
 
 <img src="/media/Sentons-Collaboration-Use-Cases.jpg" width="500" />
 
-This opportunity matrix helped our team pull apart our concepts and create distinct products that were tailored for specific collaboration typologies.
+This opportunity matrix helped our team pull apart our concepts and create distinct products that were tailored for specific collaboration use cases.
 
 <img src="/media/Sentons-Use-Case-Framework.jpg" width="400" />
 
 ### Concepting for Collaboration
 
-From there, we created 3 conceptual directions, **Concierge, Portal and Campfire**. For each concept, we created sample positioning, customer types, and key signature features that created differentiation for that particular concept. 
+From there, we created 3 conceptual directions, **Concierge, Portal and Campfire**. For each concept, we created sample positioning, customer types, and key signature features. 
 
 <img src="/media/Sentons-Concept-Board.jpg" width="900" />
 

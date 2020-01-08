@@ -70,7 +70,7 @@
 
           &:hover,
           &:focus {
-            color: $color-white;
+            color: $color-primary;
           
   
           }
@@ -119,6 +119,6 @@
   
   .feed__item-image {
     border-radius: 5%;
-    max-height: 148px;
+    max-height: 159px;
   }
 }
