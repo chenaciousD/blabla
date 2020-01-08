@@ -29,7 +29,6 @@ The frog team was comprised of interaction designers, visual designers, and stra
 - Business case validation for new concepts
 - Contribute to concepting and articulation of signature moments
 - Narrative creation and storyboarding for animated shorts
-- Lead client workshops and brainstorming sessions
 
 Our participatory design research process included speaking with 25 customers, visiting their homes to understand their painpoints and needs. We created several activites to help surface open conversation during our interviews. 
 

@@ -25,10 +25,9 @@ In 2017, one of Australia's leading energy utilities approached frog to partner 
 The frog team was comprised of interaction designers, visual designers, strategists and software architects collaborating on multiple streams of work to ensure balanced perspectives from design, business and technology. **My role on the team included:**
 - Customer experience framework and research synthesis
 - User and business needs prioritization framework
-- Define roadmap metrics, value propositions and functional requirements 
+- Product roadmap metrics, value propositions and functional requirements 
 - Contribute to interaction and visual design brainstorms and reviews
 - Facilitation of client workshops with executive leadership and product teams
-- Collaborate with solution architect on implementation and technical roadmap 
 
 <table><tr><td><img src="/media/AGL-Brainstorming-Session.jpg"></td><td><img src="/media/AGL-Workshop-Team.jpg"></td></tr></table>
 
