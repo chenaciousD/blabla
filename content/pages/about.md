@@ -23,7 +23,7 @@ At frog, I led design/strategy engagements in addition to frog's early stage inv
 + Workshop facilitation 
 + Corporate venturing and innovation strategy
 
-Corporate clients and partneres have included: Toyota, Unilever, Tokyu Land Corporation, SuccessFactors, Google, Charles Schwab, Miele, among others. 
+Corporate clients and partneres have included: Toyota, Unilever, Tokyu Land Corporation, SuccessFactors, Google, Charles Schwab, Miele, Envision Energy among others. 
 
 In my role as frogVentures US lead, I led or contributed to investments in:
 + [Bellwether Coffee](https://www.bellwethercoffee.com)

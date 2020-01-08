@@ -41,3 +41,4 @@ Lifestyle perks offered at the office will become increasingly important. On a p
 
 The office as we know it is not guaranteed to survive in the future, but we do know that past predictions signaling the demise of the office in favor of advanced technologies have not come to pass. There is something special about the office, and tomorrow’s technologies should serve to improve the spaces where employees congregate, rather than to replace those spaces outright. **The future office must weave our digital identity into the physical workplace in ways that make us super-productive, super-collaborative, super-creative, and perhaps even super-human.**
 
+This blog post was originally published on frog designmind.

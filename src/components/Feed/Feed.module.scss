@@ -28,6 +28,7 @@
       @include line-height(1.5);
       @include margin-top(0);
       @include margin-bottom(.5);
+      
 
       &-link {
 
@@ -64,13 +65,13 @@
       &-category {
         &-link {
           font-size: $typographic-small-font-size;
-          color: $color-secondary;
+          color: #d3f4ff;
           font-weight: 600;
           text-transform: uppercase;
 
           &:hover,
           &:focus {
-            color: $color-primary;
+            color: $color-white;
           
   
           }
