@@ -1,5 +1,5 @@
 ---
-title: Digital Transformation for a Leading Utility
+title: Digital Transformation for a Major Energy Utility
 date: "2019-11-19T22:40:32.169Z"
 template: "post"
 draft: false
