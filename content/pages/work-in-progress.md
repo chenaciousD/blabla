@@ -21,7 +21,7 @@ Reach out if you would like to attend one or if you would like to present your w
 + Flexible spaces ([Ori](https://oriliving.com/))
 + Post-suburbia ([Urban Village Project](https://www.urbanvillageproject.com/))
 + Intergenerational housing ([Fastco Future of Housing](https://www.fastcompany.com/90342219/the-future-of-housing-looks-nothing-like-todays))
-+ New ownership for shared housing ([Baugruppen](http://dynamiccities.org/baugruppen))
++ New ownership models for shared housing ([Baugruppen](http://dynamiccities.org/baugruppen))
 + Failed Utopias ([Nice Try](https://www.curbed.com/nice-try))
 + The Intersection of Digital & Physical UX 
 + New public spaces and experiences 
@@ -29,7 +29,7 @@ Reach out if you would like to attend one or if you would like to present your w
 + Cybernetics, Counterculture and Cyberculture 
 + Surveillance in the Public Realm 
 
-## Coding
+## From Finance to Design to Code
 
 I've been teaching myself to code recently. I highly recommend [SuperHi](https://www.superhi.com) for a designerly approach to learning front end. I've also taken a few great [udemy classes](https://www.udemy.com/course/the-complete-web-development-bootcamp/) for backend.
 

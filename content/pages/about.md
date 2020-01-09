@@ -12,14 +12,14 @@ I bring quantitative skills, qualitative intuition, and a broad range of multi-d
 
 <img src="/media/About-Background.jpg" width="100%" />
 
-## Design and Technology
+## Working at frog
 At frog, I led design/strategy engagements in addition to frog's early stage investing practice. In this role, I maintained frog’s relationships with the entrepreneurship ecosystem, sourced potential startups to invest in, negotiated term sheets with potential startups and co-led projects across product and marketing for startups and industry leaders. The types of engagements I either led or contributed to include: 
 
-+ Market and customer research
 + Digital product design & agile software development 
-+ Brand strategy and brand expression
++ Market, customer, and design research
 + Experience and service design 
 + Go to market strategy, product marketing, and messaging strategy
++ Brand strategy and brand expression
 + Workshop facilitation 
 + Corporate venturing and innovation strategy
 
