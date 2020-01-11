@@ -14,6 +14,7 @@ type Props = {
   pageContext: PageContext
 };
 
+
 const divStyle = {
   backgroundColor: '#F8F8F8'
 };
