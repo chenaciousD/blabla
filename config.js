@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Daniel Chen',
     photo: '/photo.jpg',
-    bio: 'Hey! Thanks for visiting. I collaborate on teams to design and build tech-enabled products that improve the human experience. Come here to see project work, experiments, and eventually ... musings at the intersection of finance, design, tech, and cities. This site was built using GatsbyJS, a static site generator based on React.',
+    bio: 'Hey! Thanks for visiting. I design and build products that improve the human experience. Come here to see project work, experiments, and eventually ... musings at the intersection of finance, design, tech, and cities. This site was built using GatsbyJS, a static site generator based on React.',
     contacts: {
       email: '',
       facebook: '',

@@ -52,7 +52,7 @@ We also created a framework that showed how Charlie's relationship with users co
 
 <img src="/media/Charlie-Relationship-Model.jpg" alt="AGL" width="700"/>
 
-####  From Component Library to Character Bible
+####  A Character Bible defines the Product Experience
 
 Because Charlie's primary product and experience interface was delivered through chat, **we conceptualized a new type of product deliverable, a Character Bible.** This bible included canonical dialogues, verbal/non-verbal response types, modes of behavior, and even a few jokes.
 
