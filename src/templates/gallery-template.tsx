@@ -21,11 +21,10 @@ const Overlay = styled.div`
   left: 0;
   right: 0;
   bottom: 0;
-  background: rgba(0, 0, 0, 0.2);
+  background: rgba(0, 0, 0, 0.25);
   z-index: 2;
   opacity: 0;
-  transition: all 0.3s ease 0s;
-  
+  transition: all 0.4s ease 0s;
 `
 
 const Title = styled.div`
@@ -33,7 +32,7 @@ const Title = styled.div`
   font-weight: 700;  
   text-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
   font-size: 25px;
-  transform: translateY(-45px);
+  text-align: center;
   transition: all 0.4s ease 0s;
   opacity: 0;
 `
@@ -44,6 +43,11 @@ const Item = styled(animated.a)`
   > div img {
     transition: all 0.3s ease 0s !important;
   }
+  &:hover {
+    > div img {
+      transform: scale(1.3);
+    }
+
   &:hover {
     ${Overlay} {
       opacity: 1;
@@ -63,6 +67,7 @@ left: 0;
 top: 0;
 right: 0;
 bottom: 0;
+padding: 30px;
 `
 
 type Props = {
@@ -86,7 +91,7 @@ const Instagram: React.FunctionComponent<Props> = ({
 }) => {
   
   const pageAnimation = useSpring({
-    config: config.default,
+    config: config.slow,
     from: { opacity: 0 },
     to: { opacity: 1 },
   })
@@ -99,7 +104,7 @@ const Instagram: React.FunctionComponent<Props> = ({
     <section>  
     <Layout>
       <Sidebar />
-      <Page>
+      <Page title="Gallery">
       <Grid style={pageAnimation}>
         {trail.map((style, index) => {
           // Grab everything before the first hashtag (because I write my captions like that)
