@@ -5,6 +5,7 @@ import styled from 'styled-components'
 import { config, animated, useSpring, useTrail } from 'react-spring'
 import { ChildImageSharp } from '../types'
 import Layout from '../components/Layout';
+import { Flex } from '../components/elements'
 import Sidebar from '../components/Sidebar';
 import Page from '../components/Page';
 
@@ -20,10 +21,21 @@ const Overlay = styled.div`
   left: 0;
   right: 0;
   bottom: 0;
-  background: rgba(0, 0, 0, 0.6);
+  background: rgba(0, 0, 0, 0.2);
   z-index: 2;
   opacity: 0;
   transition: all 0.3s ease 0s;
+  
+`
+
+const Title = styled.div`
+  color: white;
+  font-weight: 700;  
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  font-size: 25px;
+  transform: translateY(-45px);
+  transition: all 0.4s ease 0s;
+  opacity: 0;
 `
 
 const Item = styled(animated.a)`
@@ -36,7 +48,21 @@ const Item = styled(animated.a)`
     ${Overlay} {
       opacity: 1;
     }
+
+    ${Title} {
+      transform: translateY(0);
+      opacity: 1;
+    }
   }
+`
+
+const Content = styled(Flex)`
+z-index: 10;
+position: absolute;
+left: 0;
+top: 0;
+right: 0;
+bottom: 0;
 `
 
 type Props = {
@@ -65,9 +91,9 @@ const Instagram: React.FunctionComponent<Props> = ({
     to: { opacity: 1 },
   })
 
-  const trail = useTrail(instagram.length, {
-    
+  const trail = useTrail(instagram.length, {    
   })
+
 
   return (
     <section>  
@@ -78,12 +104,16 @@ const Instagram: React.FunctionComponent<Props> = ({
         {trail.map((style, index) => {
           // Grab everything before the first hashtag (because I write my captions like that)
           const post = instagram[index]
-          
+          const title = post.caption ? post.caption.split('#')[0] : ''
+          const date = new Date(post.timestamp * 1000).toLocaleDateString('de-DE')    
       
           return (
             <Item style={style} href={`https://www.instagram.com/p/${post.id}/`} key={post.id}>
               <Overlay />
               <Img fluid={post.localFile.childImageSharp.fluid} />
+              <Content flexDirection="column" flexWrap="nowrap" justifyContent="space-around" alignItems="center">
+                <Title>{title}</Title>
+              </Content>
               </Item>
           )
         })}

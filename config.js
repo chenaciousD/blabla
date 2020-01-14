@@ -22,7 +22,11 @@ module.exports = {
     {
       label: 'Work in Progress',
       path: '/pages/work-in-progress'
-    }
+    },
+    {
+      label: 'Gallery',
+      path: '/gallery'
+    },
   ],
   author: {
     name: 'Daniel Chen',
