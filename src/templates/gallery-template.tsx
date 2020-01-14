@@ -35,6 +35,7 @@ const Title = styled.div`
   text-align: center;
   transition: all 0.4s ease 0s;
   opacity: 0;
+  
 `
 
 const Item = styled(animated.a)`
@@ -42,15 +43,18 @@ const Item = styled(animated.a)`
   overflow: hidden;
   > div img {
     transition: all 0.3s ease 0s !important;
+    
   }
   &:hover {
     > div img {
-      transform: scale(1.3);
+        
     }
 
   &:hover {
     ${Overlay} {
       opacity: 1;
+      outline: 3px solid #fff;
+      outline-offset: -20px;
     }
 
     ${Title} {
@@ -104,7 +108,7 @@ const Instagram: React.FunctionComponent<Props> = ({
     <section>  
     <Layout>
       <Sidebar />
-      <Page title="Gallery">
+      <Page title="Image Gallery">
       <Grid style={pageAnimation}>
         {trail.map((style, index) => {
           // Grab everything before the first hashtag (because I write my captions like that)

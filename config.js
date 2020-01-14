@@ -12,7 +12,7 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Projects',
+      label: 'Projects & Posts',
       path: '/'
     },
     {
@@ -24,7 +24,7 @@ module.exports = {
       path: '/pages/urban-futures'
     },
     {
-      label: 'Gallery',
+      label: 'Image Gallery',
       path: '/gallery'
     },
   ],
