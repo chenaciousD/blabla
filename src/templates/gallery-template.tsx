@@ -10,7 +10,33 @@ import Page from '../components/Page';
 
 const Grid = styled(animated.div)`
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(450px, 1fr)); 
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 10px;
+`
+
+const Overlay = styled.div`
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.6);
+  z-index: 2;
+  opacity: 0;
+  transition: all 0.3s ease 0s;
+`
+
+const Item = styled(animated.a)`
+  position: relative;
+  overflow: hidden;
+  > div img {
+    transition: all 0.3s ease 0s !important;
+  }
+  &:hover {
+    ${Overlay} {
+      opacity: 1;
+    }
+  }
 `
 
 type Props = {
@@ -55,9 +81,10 @@ const Instagram: React.FunctionComponent<Props> = ({
           
       
           return (
-            <div key={post.id}>  
-              <Img fluid={post.localFile.childImageSharp.fluid} />                    
-            </div>
+            <Item style={style} href={`https://www.instagram.com/p/${post.id}/`} key={post.id}>
+              <Overlay />
+              <Img fluid={post.localFile.childImageSharp.fluid} />
+              </Item>
           )
         })}
       </Grid>
