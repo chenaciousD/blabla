@@ -12,7 +12,7 @@ import Page from '../components/Page';
 const Grid = styled(animated.div)`
   display: grid;
   grid-template-columns: 1fr 1fr;
-  grid-gap: 10px;
+  grid-gap: 12px;
 `
 
 const Overlay = styled.div`

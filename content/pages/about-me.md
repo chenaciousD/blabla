@@ -42,3 +42,13 @@ From 2008 to 2012, I worked in real estate finance and investing at Morgan Stanl
 
 ### Architecture, Cities and Space
 My professional background also includes experience in and a passion for physical and environmental design. In addition to spending time at Herman Miller, I also worked on several Future of Workplace and Retail engagements at frog design. In 2010, I interned for [Bjarke Ingels Group](https://www.big.dk) and [KiBiSi](http://kibisi.com/) in Copenhagen serving as chief of staff to the CEO. **I'm particularly interested in the experience and economics of physical space and how it can shape human behavior.**
+
+### From Finance to Design to Code
+I've been teaching myself to code recently. I highly recommend [SuperHi](https://www.superhi.com) for a designerly approach to learning front end. I've also taken a few great [udemy classes](https://www.udemy.com/course/the-complete-web-development-bootcamp/) for backend. This website was built using [GatsbyJS](https://www.gatsbyjs.org), which is a static site generator and based on React. I've used [Netlify](https://www.netlify.com) to build and deploy and [netlifycms](https://www.netlifycms.org) as a headless CMS.
+
+### Fermentation 
+I'm also in the process of documenting recent experimentations with sourdough and other types of fermentation. Below a recent attempt at sourdough brioche:
+
+<img src="/media/Sourdough-Brioche.jpg" width="100%"  />
+
+Sadly ... this [article](https://www.eater.com/2018/11/19/18099127/bread-silicon-valley-sourdough-tech-bros-tartine-chad-robertson) is spot on.

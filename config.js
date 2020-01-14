@@ -20,8 +20,8 @@ module.exports = {
       path: '/pages/about-me'
     },
     {
-      label: 'Work in Progress',
-      path: '/pages/work-in-progress'
+      label: 'Urban Futures',
+      path: '/pages/urban-futures'
     },
     {
       label: 'Gallery',
