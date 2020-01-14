@@ -12,7 +12,8 @@ module.exports = {
     copyright: siteConfig.copyright,
     disqusShortname: siteConfig.disqusShortname,
     menu: siteConfig.menu,
-    author: siteConfig.author
+    author: siteConfig.author,
+    siteUrl: `https://www.chenaciousd.com`
   },
   plugins: [
     {
@@ -160,6 +161,7 @@ module.exports = {
         },
       },
     },
+    
     {
       resolve: 'gatsby-plugin-sitemap',
       options: {
