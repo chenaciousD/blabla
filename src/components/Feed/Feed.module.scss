@@ -8,7 +8,7 @@
     lost-column: 11/12;
     @include margin-bottom(1.25);
     padding: 20px;
-    border-radius: 5%;
+    border-radius: 0%;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.3);
     background-color:$color-primary; 
     
@@ -19,7 +19,7 @@
     }
 
     &-image {
-      border-radius: 5%;
+      border-radius: 0%;
       max-height: 600px;
       
     }
@@ -108,19 +108,20 @@
   }
   
   .feed__item-image {
-  border-radius: 5%;
+  border-radius: 0%;
   max-height: 600px;
   }
 }
 
 @include breakpoint-md {
   .feed__item {
-    lost-column: 5/12;
+    display: grid;  
+    lost-column: 5.1/12;
   
   }
   
   .feed__item-image {
-    border-radius: 5%;
+    border-radius: 0%;
     max-height: 138px;
   }
 }

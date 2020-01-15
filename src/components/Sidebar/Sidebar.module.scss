@@ -4,10 +4,11 @@
 .sidebar {
 
     position: none;
-    background-color: rgb(255, 196, 0);
+    background-color: $color-secondary;
     &__inner {
         position: relative;
-        padding: 25px 20px 0;
+        padding: 25px 20px 20px;
+        
     }
 }
 
@@ -41,9 +42,11 @@
         height: 100%;
         top: 0px;
         left: 0px;
+        margin-bottom: 20px;
         lost-column: 4.5/12;
         &__inner {
             padding: 40px 60px 40px 100px;
+
         }
     }
 }

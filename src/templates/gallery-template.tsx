@@ -12,7 +12,7 @@ import Page from '../components/Page';
 const Grid = styled(animated.div)`
   display: grid;
   grid-template-columns: 1fr 1fr;
-  grid-gap: 12px;
+  grid-gap: 30px;
 `
 
 const Overlay = styled.div`
@@ -41,6 +41,7 @@ const Title = styled.div`
 const Item = styled(animated.a)`
   position: relative;
   overflow: hidden;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.3);
   > div img {
     transition: all 0.3s ease 0s !important;
     
