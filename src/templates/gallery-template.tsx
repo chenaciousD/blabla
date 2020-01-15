@@ -24,7 +24,7 @@ const Overlay = styled.div`
   background: rgba(0, 0, 0, 0.25);
   z-index: 2;
   opacity: 0;
-  transition: all 0.4s ease 0s;
+  transition: all 0.15s ease 0s;
 `
 
 const Title = styled.div`
@@ -54,8 +54,7 @@ const Item = styled(animated.a)`
   &:hover {
     ${Overlay} {
       opacity: 1;
-      outline: 3px solid #fff;
-      outline-offset: -20px;
+      
     }
 
     ${Title} {

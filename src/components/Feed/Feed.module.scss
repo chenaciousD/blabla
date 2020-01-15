@@ -116,13 +116,13 @@
 @include breakpoint-md {
   .feed__item {
     display: grid;  
-    lost-column: 5.1/12;
+    lost-column: 5/12;
   
   }
   
   .feed__item-image {
     border-radius: 0%;
-    max-height: 138px;
+    max-height: 146px;
   }
 }
 
