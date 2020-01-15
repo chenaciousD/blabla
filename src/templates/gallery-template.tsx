@@ -12,8 +12,14 @@ import Page from '../components/Page';
 const Grid = styled(animated.div)`
   display: grid;
   grid-template-columns: 1fr 1fr;
-  grid-gap: 30px;
+  grid-gap: 20px;
+
+  @media (max-width: 685px) {
+    grid-template-columns: 1fr;
+  }
+
 `
+
 
 const Overlay = styled.div`
   position: absolute;
@@ -25,6 +31,9 @@ const Overlay = styled.div`
   z-index: 2;
   opacity: 0;
   transition: all 0.15s ease 0s;
+
+  @media (max-width: 685px) {
+    opacity: 1;
 `
 
 const Title = styled.div`
@@ -35,6 +44,10 @@ const Title = styled.div`
   text-align: center;
   transition: all 0.4s ease 0s;
   opacity: 0;
+
+  @media (max-width: 685px) {
+    opacity: 1;
+  }
   
 `
 
