@@ -36,10 +36,14 @@
 
 @include breakpoint-md {
     .sidebar {
+        position: absolute;
         position: fixed;
-        lost-column: 1/3;
+        height: 100%;
+        top: 0px;
+        left: 0px;
+        lost-column: 4.5/12;
         &__inner {
-            padding: 40px;
+            padding: 40px 60px 40px 100px;
         }
     }
 }
