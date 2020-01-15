@@ -32,6 +32,7 @@
 
 @include breakpoint-sm {
   .page {
+    margin-left: 35vw;
     lost-column: 7/12;
 
     &__inner {
@@ -44,6 +45,7 @@
 
 @include breakpoint-md {
   .page {
+    margin-left: 33vw;
     lost-column: 2/3;
 
     &__inner {
