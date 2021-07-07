@@ -5,14 +5,14 @@ module.exports = {
   pathPrefix: '/',
   title: 'Daniel Chen',
   subtitle: 'Hey! I conceptualize, design, and build experiences for consumers and businesses.',
-  copyright: '© Images for personal portfolio use only. All work is teamwork, representing the close collaboration of many frogs.',
+  copyright: '© Images for personal use only. All work is teamwork, representing the close collaboration of many frogs.',
   disqusShortname: '',
   postsPerPage: 6,
   googleAnalyticsId: 'UA-73379983-2',
   useKatex: false,
   menu: [
     {
-      label: 'Projects',
+      label: 'Projects & Posts',
       path: '/'
     },
     {
@@ -20,9 +20,13 @@ module.exports = {
       path: '/pages/about-me'
     },
     {
-      label: 'Work in Progress',
-      path: '/pages/work-in-progress'
-    }
+      label: 'Urban Futures',
+      path: '/pages/urban-futures'
+    },
+    {
+      label: 'Image Gallery',
+      path: '/gallery'
+    },
   ],
   author: {
     name: 'Daniel Chen',

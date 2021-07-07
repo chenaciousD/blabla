@@ -12,7 +12,8 @@ module.exports = {
     copyright: siteConfig.copyright,
     disqusShortname: siteConfig.disqusShortname,
     menu: siteConfig.menu,
-    author: siteConfig.author
+    author: siteConfig.author,
+    siteUrl: `https://www.chenaciousd.com`
   },
   plugins: [
     {
@@ -22,6 +23,17 @@ module.exports = {
         name: 'pages'
       }
     },
+    {
+      resolve: 'gatsby-source-instagram',
+      options: {
+        username: `chenaciousD`,
+      },
+    },
+    'gatsby-plugin-sharp',
+    'gatsby-transformer-sharp',
+    'gatsby-plugin-styled-components',
+    'gatsby-plugin-typescript',
+    'gatsby-plugin-sitemap',
     {
       resolve: 'gatsby-source-filesystem',
       options: {
@@ -149,6 +161,7 @@ module.exports = {
         },
       },
     },
+    
     {
       resolve: 'gatsby-plugin-sitemap',
       options: {

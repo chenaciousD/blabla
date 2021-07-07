@@ -16,7 +16,7 @@ type Props = {
 
 
 const divStyle = {
-  backgroundColor: '#F8F8F8'
+  backgroundColor: 'white'
 };
 
 const IndexTemplate = ({ data, pageContext }: Props) => {
@@ -38,7 +38,7 @@ const IndexTemplate = ({ data, pageContext }: Props) => {
     <div style={divStyle}>
     <Layout title={pageTitle} description={siteSubtitle}>
       <Sidebar isIndex />
-      <Page>
+      <Page title="Projects & Posts">
         <Feed edges={edges} />
         <Pagination
           prevPagePath={prevPagePath}

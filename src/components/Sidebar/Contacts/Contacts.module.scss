@@ -2,7 +2,7 @@
 @import '../../../assets/scss/mixins';
 
 .contacts {
-  @include margin-bottom(1);
+  @include margin-bottom(.5);
 
   &__list {
     display: flex;
@@ -28,7 +28,7 @@
       line-height: $button-height;
       border-radius: 50%;
       text-align: center;
-      border: 1px solid $color-gray-bg;
+      border: 1px solid $color-primary;
       background-color: $color-primary;
 
       &-link {

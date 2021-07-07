@@ -20,6 +20,8 @@ const Author = ({ author, isIndex }: Props) => (
         className={styles['author__photo']}
         width="200"
         height="200"
+        display="block"
+        overflow= "hidden"
         alt={author.name}
       />
     </Link>
